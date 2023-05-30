@@ -23,12 +23,12 @@ Lastly, you will learn when to use each shot based on the situation on the court
 
 During training we will focus on following overhead shots
 
-- **Bandeja**: Defensive overhead shot used for lobs, hit with a flat paddle face to create a high, arching shot.
-- **Vibora**: Quick, angled overhead shot used to catch opponents off guard, hit with a diagonal motion and generating spin.
-- **Rulo**: Overhead shot hit with a spin to curve the ball around the opponent.
-- **Gancho**: Overhead shot used for topspin, hit with a closed paddle face to generate significant spin and send the ball over the opponent's head with a sharp, downward angle.
-- **Flat Smash**: Powerful overhead shot hit with a flat paddle face, used to hit the ball with speed and accuracy.
-- **Kick Smash**: Overhead shot hit with a closed paddle face and a high, upward motion, used to hit a high-bouncing ball with topspin.
+- **Bandeja**: defensive overhead shot used for lobs, hit with a flat paddle face to create a high, arching shot.
+- **Vibora**: quick, angled overhead shot used to catch opponents off guard, hit with a diagonal motion and generating spin.
+- **Rulo**: a topspin overhead hit on a lob over one’s non-dominant shoulder played to a fence (mostly for right-handed player on the left or left-handed on the right)
+- **Gancho**: a defensive overhead used to regain the net position, similar to the bandeja but with a higher contact point and normally hit without spin toward the side glass or fence (mostly right-handed right-side players)
+- **Flat Smash**: powerful overhead shot hit with a flat paddle face, used to hit the ball with speed and accuracy.
+- **Kick Smash**: overhead shot hit with a closed paddle face and a high, upward motion, used to hit a high-bouncing ball with topspin out of a court.
 
 As an experienced instructor, I am committed to tailoring the training program to the level of experience of my participants.
 Beginner players can expect to focus on mastering the basics like the bandeja and flat smash, while more advanced players can expect to work on more complex shots like vibora and rulo. 
@@ -37,4 +37,14 @@ By the end of the training session, you will have developed a deeper understandi
 
 ## Training plan:
 
-A more detailed trainiing plan 
+All participants will be divided into groups of 4.  
+
+For each group:
+- 1.5 hour on Friday (mostly focusing on technique).
+- 2.5 hour on Saturday (technique and tactic)
+- 2.5 hour on Saturday (technique and tactic)
+- 2 hour of mini tournament on Monday with prizes 
+
+Each training session begins with a proper warm-up to ensure that you avoid any unnecessary pain or injury.  
+
+To ensure that participants stay energized and focused, we will be providing a variety of drinks and (healthy) snacks.
