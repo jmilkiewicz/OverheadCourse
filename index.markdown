@@ -7,9 +7,9 @@ layout: default
 
 # Berlin June 2023
 
-For the first time Manu Soler is coming to Berlin to provide his overhead course in Berlin. 
+For the first time Manu Soler is coming to Berlin to provide his overhead course in Berlin.
 
-Please have a look at [Course description](/overheads.html) to find out more what you will learn and practice.
+Please have a look at [Course description]({{ site.baseurl }}{% link overheads.markdown %}) to find out more what you will learn and practice.
 
 ## Dates
 Training will be provided from Friday 23rd to 26th of June. Friday/Monday we will have afternoon/evening sessions.
