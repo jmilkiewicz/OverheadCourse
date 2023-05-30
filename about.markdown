@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Manu Soler
 permalink: /about/
 ---
 
-## Manu Soler
 Here some information on You
 
 dsadsadas
