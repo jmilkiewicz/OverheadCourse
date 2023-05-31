@@ -7,9 +7,11 @@ layout: default
 
 # Berlin June 2023
 
-For the first time Manu Soler is coming to Berlin to provide his overhead course in Berlin.
+For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is coming to Berlin to provide his padel overhead course in Berlin.
 
-Please have a look at [Course description]({{ site.baseurl }}{% link overheads.markdown %}) to find out more what you will learn and practice.
+{% include googleDrivePlayer.html id='1EwvlPJlcV5l1pOCnJWDZFPoDlFSkQN6c' %}
+
+Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.markdown %}) to find out more what you will learn and practice.
 
 ## Dates
 Training will be provided from Friday 23rd to 26th of June. Friday/Monday we will have afternoon/evening sessions.
@@ -41,7 +43,9 @@ Prices:
 
 Minimum number of participants is 12 and maximum is 16. 
 
-To initiate the registration process, please send an email with your **full name** to the following address: manupadelin@gmail.com.
+To initiate the registration process, please send an email with your **full name** to the following address:
+<a href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>
+
 Once your registration email is received, our team will review your request. If your registration is confirmed by us, 
 you will receive further instructions on how to proceed with the payment.
 
