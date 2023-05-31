@@ -17,7 +17,7 @@ Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.m
 Training will be provided from Friday 23rd to 26th of June. Friday/Monday we will have afternoon/evening sessions.
 
 ## Location
-We will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>
+We will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>, 
 Königshorster Str. 11-15, 13439 Berlin
 
 ## Training Plan
