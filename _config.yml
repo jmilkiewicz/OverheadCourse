@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Manu Soler "Padel Overhead Course"
-email: manusoler@example.com
+email: manupadelin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Manu Soler Padel overhead training course
 #baseurl: "" # the subpath of your site, e.g. /blog
