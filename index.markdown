@@ -41,13 +41,10 @@ Prices:
 - 220 euro until 6th of June,
 - 250 euro from 7th of June
 
-Minimum number of participants is 12 and maximum is 16. 
+Minimum number of participants is 12 and maximum is 16.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvglcNnQe1y-j99oIzrooSmvyBiMtp_t6ME-tIF0NvTkxULg/viewform?embedded=true" width="640" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-To initiate the registration process, please send an email with your **full name** to the following address:
-<a href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>
-
-Once your registration email is received, our team will review your request. If your registration is confirmed by us, 
-you will receive further instructions on how to proceed with the payment.
+Once your registration form is submitted, our team will review your request and you will receive further instructions on how to proceed with the payment.
 
 Please note that the payment must be made via PayPal within two days of receiving the confirmation. Upon successful payment, your registration will be considered complete.
 
