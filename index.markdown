@@ -41,7 +41,7 @@ Prices:
 
 Minimum number of participants is 12 and maximum is 16. 
 
-To initiate the registration process, please send an email with your **full name** to the following address: [insert email address here].
+To initiate the registration process, please send an email with your **full name** to the following address: manupadelin@gmail.com.
 Once your registration email is received, our team will review your request. If your registration is confirmed by us, 
 you will receive further instructions on how to proceed with the payment.
 
