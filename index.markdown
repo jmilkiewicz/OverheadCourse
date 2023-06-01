@@ -33,7 +33,7 @@ For each group:
 - 2 hours of mini tournament (with prizes) on Monday 
 
 Each training session begins with a proper warm-up to ensure that you avoid any unnecessary pain or injury.
-To ensure that participants stay energized and focused, we will be providing a variety of drinks and (healthy) snacks.
+To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
 Specific hours and group allocations will be announced via whatsup at least a one week before the training starts.
 
