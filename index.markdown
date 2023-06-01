@@ -17,8 +17,10 @@ Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.m
 Training will be provided from Friday 23rd to 26th of June. Friday/Monday we will have afternoon/evening sessions.
 
 ## Location
-We will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>, 
-Königshorster Str. 11-15, 13439 Berlin
+On Friday,Sunday and Monday we will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>, Königshorster Str. 11-15, 13439 Berlin
+
+
+On Saturday training will be in <a href="https://padelfc.com/" target="_blank"> Padel FC </a>,  Köpenicker Ch 11-14, 10317 Berlin, Germany 
 
 ## Training Plan
 All participants will be divided into groups of 4.
@@ -41,7 +43,7 @@ Prices:
 - 220 euro until 6th of June,
 - 250 euro from 7th of June
 
-Minimum number of participants is 12 and maximum is 16.
+Maximum number of participants is 12 and minimum is 8.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvglcNnQe1y-j99oIzrooSmvyBiMtp_t6ME-tIF0NvTkxULg/viewform?embedded=true" width="640" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request and you will receive further instructions on how to proceed with the payment.
