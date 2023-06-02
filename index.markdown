@@ -9,7 +9,7 @@ layout: default
 
 For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is coming to Berlin to provide his padel overheads course/training.
 
-{% include googleDrivePlayer.html id='1EwvlPJlcV5l1pOCnJWDZFPoDlFSkQN6c' %}
+{% include localVideo.html id='manuoverheads.mp4' %}
 
 Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.markdown %}) to find out more what you will learn and practice.
 
