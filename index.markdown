@@ -44,7 +44,7 @@ Prices:
 - 220 euro until 6th of June,
 - 250 euro from 7th of June
 
-Maximum number of participants is 12 and minimum is 8.
+Maximum number of participants is **12** and minimum is **8**.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvglcNnQe1y-j99oIzrooSmvyBiMtp_t6ME-tIF0NvTkxULg/viewform?embedded=true" width="640" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request and you will receive further instructions on how to proceed with the payment.

@@ -31,6 +31,6 @@ During training we will focus on following overhead shots
 - **Kick Smash**: overhead shot hit with a closed paddle face and a high, upward motion, used to hit a high-bouncing ball with topspin out of a court.
 
 As an experienced instructor, I am committed to tailoring the training program to the level of experience of my participants.
-Beginner players can expect to focus on mastering the basics like the bandeja and flat smash, while more advanced players can expect to work on more complex shots like vibora and rulo.
+Beginner players can expect to focus on mastering the basics like the bandeja and flat smash, while more advanced players can expect to work on more complex shots like vibora, rulo and kick smash.
 
 By the end of the training session, you will have developed a deeper understanding of how to play, where to play, and when to play each of the overhead shots, allowing you to elevate your game and dominate the court.
