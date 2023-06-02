@@ -30,7 +30,7 @@ For each group:
 
 - 1.5 hour on Friday (technique).
 - 2.5 hours on Saturday (technique and tactic)
-- 2.5 hours on Saturday (technique and tactic)
+- 2.5 hours on Sunday (technique and tactic)
 - 2 hours of mini tournament (with prizes) on Monday 
 
 Each training session begins with a proper warm-up to ensure that you avoid any unnecessary pain or injury.
