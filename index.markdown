@@ -49,5 +49,5 @@ Maximum number of participants is **12** and minimum is **8**.
 
 Once your registration form is submitted, our team will review your request and you will receive further instructions on how to proceed with the payment.
 
-Please note that the payment must be made via PayPal within two days of receiving the confirmation. Upon successful payment, your registration will be considered complete.
+Upon successful payment, your registration will be considered complete.
 
