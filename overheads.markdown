@@ -17,11 +17,11 @@ Firstly, you will learn the proper technique for each shot, including the correc
 Secondly, you will learn the optimal placement of each shot based on the position of both yourself and your opponent on the court. You will learn how to strategically place each shot to force your opponent out of position or hit winners that are difficult to return.
 
 - ### When:
-Lastly, you will learn when to use each shot based on the situation on the court, such as the speed of the ball, the height of the bounce, and the position of your opponent. By understanding the right time to use each shot, you will be able to anticipate and react to your opponent's shots more effectively.
+Lastly, you will learn when to use each shot based on the situation on the court, such as the speed and height of the ball, and the position of your opponent. By understanding the right time to use each shot, you will be able to anticipate and react to your opponent's shots more effectively.
 
 ## Expectations:
 
-During training we will focus on following overhead shots
+During training we will focus on following overhead shots:
 
 - **Bandeja**: defensive overhead shot used for lobs, hit with a flat paddle face to create a high, arching shot.
 - **Vibora**: quick, angled overhead shot used to catch opponents off guard, hit with a diagonal motion and generating spin.
