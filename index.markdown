@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: Berlin June 2023
 layout: default
 ---
 
@@ -14,7 +15,7 @@ For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is 
 Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.markdown %}) to find out more what you will learn and practice.
 
 ## Dates
-Training will be provided from Friday 23rd to Monday 26th of June. 
+Training will be provided from **Friday 23rd** to **Monday 26th** of June. 
 
 On Friday we will start from 17:00, Saturday/Sunday from morning 10/11:00 and mini tournament will be 19:00-21:00 on Monday.
 
