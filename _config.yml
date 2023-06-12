@@ -36,6 +36,9 @@ minima:
       user_url: "https://www.instagram.com/manusoler_padel"
       title: Manu Soler on instagram
 
+header_pages:
+  - overheads.markdown
+  - about.markdown
 #plugins:
 #  - jekyll-feed
 
