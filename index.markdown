@@ -17,7 +17,7 @@ Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.m
 ## Dates
 Training will be provided from **Friday 23rd** to **Monday 26th** of June. 
 
-On Friday we will start from 17:00, Saturday/Sunday from morning 10/11:00 and mini tournament will be 19:00-21:00 on Monday.
+On Friday we will start from 18:30, Saturday/Sunday from morning 10/11:00 and mini tournament will be 19:00-21:00 on Monday.
 
 Scheduling of specific time slots for participants will occur once the grouping process has been completed. 
 
