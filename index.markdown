@@ -17,10 +17,6 @@ Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.m
 ## Dates
 Training will be provided from **Friday 23rd** to **Monday 26th** of June. 
 
-On Friday we will start from 18:30, Saturday/Sunday from morning 10/11:00 and mini tournament will be 19:00-21:00 on Monday.
-
-Scheduling of specific time slots for participants will occur once the grouping process has been completed. 
-
 ## Location
 On Friday,Sunday and Monday we will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>, Königshorster Str. 11-15, 13439 Berlin
 
@@ -31,10 +27,10 @@ All participants will be divided into groups of 4.
 
 For each group:
 
-- 1.5 hour on Friday (technique).
-- 2.5 hours on Saturday (technique and tactic)
-- 2.5 hours on Sunday (technique and tactic)
-- 2 hours of mini tournament (with prizes) on Monday 
+- 1.5 hour 18:30-20:00/20:30-22:00 on Friday (technique), 
+- 2.5 hours 10:00-12:30/13:00-15:30 on Saturday (technique and tactic),
+- 2.5 hours 11:00-13:30/14:00-16:30 on Sunday (technique and tactic), 
+- 2 hours 19:00-21:00 of mini tournament (with prizes) on Monday 
 
 Each training session begins with a proper warm-up to ensure that you avoid any unnecessary pain or injury.
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
