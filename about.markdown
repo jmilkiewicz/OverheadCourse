@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Manu Soler
-permalink: /about/
 ---
 ![Manu Soler](/assets/images/manu.jpeg)
 
