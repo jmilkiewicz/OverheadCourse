@@ -44,8 +44,8 @@ Specific hours and group allocations will be announced via whatsup at least a on
 ## Registration
 Prices:
 
-- 220 euro until 6th of June,
-- 250 euro from 7th of June
+- 250 euro per person
+- 440 euro for a pair (put a name of your friend/partner in _Extra inquiry_ below )
 
 Maximum number of participants is **12** and minimum is **8**.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvglcNnQe1y-j99oIzrooSmvyBiMtp_t6ME-tIF0NvTkxULg/viewform?embedded=true" width="640" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
