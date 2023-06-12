@@ -2,10 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+title: Course description
+layout: page
 ---
-
-# Course description
 
 For all padel players (and especially) those with a tennis background, mastering overhead shots can be particularly challenging. Unlike in tennis, padel players have a variety of overhead shots to choose from, each with its own unique technique and purpose. The bandeja, vibora, gancho, rulo and flat/kick smash require quick, agile, and accurate movements, and players must adapt to changing conditions on the court. The varied height and speed of incoming balls can make it difficult to anticipate which overhead shot to use, adding an additional layer of complexity to the learning process. However, with focused training and practice, newcomers and those with a tennis background can master these challenging shots and gain an advantage on the court.
 
