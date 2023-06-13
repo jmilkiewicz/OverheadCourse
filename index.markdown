@@ -15,7 +15,9 @@ For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is 
 Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.markdown %}) to find out more what you will learn and practice.
 
 ## Dates
-Training will be provided from **Friday 23rd** to **Monday 26th** of June. 
+Training will be provided from **Friday 23rd** to **Monday 26th** of June.
+
+*If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>* 
 
 ## Location
 On Friday,Sunday and Monday we will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>, Königshorster Str. 11-15, 13439 Berlin
