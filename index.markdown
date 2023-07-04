@@ -6,25 +6,21 @@ title: Berlin June 2023
 layout: default
 ---
 
-# Berlin June 2023
+# Padel Courses by Manu Soler
 
-For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is coming to Berlin to provide his padel overheads course/training.
+We are excited to introduce you to [Manu Soler]({{ site.baseurl }}{% link about.markdown %}), a highly skilled and dedicated padel coach who is now available to provide top-notch padel courses at your club. With his extensive experience and passion for the sport, Manu Soler offers a range of training options tailored to suit the needs of your club members.
 
-{% include localVideo.html id='manuoverheads.mp4' %}
-<br/>
-Please have a look at [COURSE DESCRIPTION]({{ site.baseurl }}{% link overheads.markdown %}) to find out more what you will learn and practice.
+Manu Soler understands that each player has unique goals and requirements when it comes to improving their padel skills. While he has predefined courses that cover various aspects of the game, he is also flexible and open to arranging customized courses based on the specific needs of your members. Whether it's beginners seeking a solid foundation or advanced players aiming to fine-tune their technique, Manu Soler can create a program that meets their individual aspirations.
 
-## Dates
-Training will be provided from **Friday 23rd** to **Monday 26th** of June.
+By offering Manu Soler's expertise at your club, you can provide your members with an exceptional learning experience. His courses are designed to enhance players' skills, boost their confidence, and foster a deeper enjoyment of the sport. With his guidance, your members will have the opportunity to improve their forehand, backhand, serving, footwork, strategy, and overall game.
 
-*If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>* 
+Manu Soler's teaching approach is adaptable and can accommodate various group sizes, ranging from one-on-one sessions to small group training. He ensures that each participant receives personalized attention and guidance, maximizing their progress on the court.
 
-## Location
-On Friday,Sunday and Monday we will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>, Königshorster Str. 11-15, 13439 Berlin
+We encourage you to seize this fantastic opportunity to bring Manu Soler's expertise to your club and offer your members an exceptional padel training experience. To discuss course options, pricing, and availability, please reach out to <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>.
 
-On Saturday training will be in <a href="https://padelfc.com/" target="_blank"> Padel FC </a>,  Köpenicker Ch 11-14, 10317 Berlin, Germany 
+Elevate the padel experience at your club with Manu Soler's expert coaching. Your members will appreciate the opportunity to improve their skills, connect with fellow players, and enjoy the thrill of this fast-paced sport to the fullest. 
 
-## Training Plan
+## Sample course plan for 8 participants
 All participants will be divided into groups of 4.
 
 For each group:
@@ -36,19 +32,4 @@ For each group:
 
 Each training session begins with a proper warm-up to ensure that you avoid any unnecessary pain or injury.
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
-
-Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
-
-## Registration
-Prices:
-
-- 250 euro per person
-- 440 euro for a pair (put a name of your friend/partner in _Extra inquiry_ below )
-
-Maximum number of participants is **12** and minimum is **8**.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvglcNnQe1y-j99oIzrooSmvyBiMtp_t6ME-tIF0NvTkxULg/viewform?embedded=true" width="640" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Once your registration form is submitted, our team will review your request and you will receive further instructions on how to proceed with the payment.
-
-Upon successful payment, your registration will be considered complete.
 
