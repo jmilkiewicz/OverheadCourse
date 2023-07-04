@@ -6,9 +6,12 @@ title: Available courses
 layout: page
 ---
 
-Manu Soler offers following padel courses:
+Below you will find a detailed description of courses provided by Manu.
+
+In addition to the listed courses, Manu Soler can create a custom course to address your specific requirements and goals.   
 
 ### [Padel Overheads]({% link courses/overheads.markdown %})
+
 
 
 
