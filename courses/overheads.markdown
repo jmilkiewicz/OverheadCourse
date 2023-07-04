@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Course description
+title: Padel Overheads description
 layout: page
 ---
 
@@ -33,3 +33,6 @@ As an experienced instructor, I am committed to tailoring the training program t
 Beginner players can expect to focus on mastering the basics like the bandeja and flat smash, while more advanced players can expect to work on more complex shots like vibora, rulo and kick smash.
 
 By the end of the training session, you will have developed a deeper understanding of how to play, where to play, and when to play each of the overhead shots, allowing you to elevate your game and dominate the court.
+
+### Sample shots  
+{% include localVideo.html id='manuoverheads.mp4' %}
