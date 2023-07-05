@@ -35,4 +35,8 @@ Beginner players can expect to focus on mastering the basics like the bandeja an
 By the end of the training session, you will have developed a deeper understanding of how to play, where to play, and when to play each of the overhead shots, allowing you to elevate your game and dominate the court.
 
 ### Sample shots  
-{% include localVideo.html id='manuoverheads.mp4' %}
+{% include googleDrivePlayer.html id='1bcbB6hQFvkfymJYwqVxT_oMIKza0xz1D' %}
+
+
+### Training snippets
+{% include googleDrivePlayer.html id='1PnEX7HCeKeUEymWWfxIUKT5ATzjlRVxB' %}
