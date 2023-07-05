@@ -10,6 +10,8 @@ Below you will find a detailed description of courses provided by Manu.
 
 In addition to the listed courses, Manu Soler can create a custom course to address your specific requirements and goals.   
 
+
+### [Padel Essentials]({% link courses/essentials.markdown %})
 ### [Padel Overheads]({% link courses/overheads.markdown %})
 
 
