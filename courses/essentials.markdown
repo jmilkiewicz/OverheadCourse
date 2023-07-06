@@ -8,7 +8,7 @@ layout: page
 
 This course is dedicated to emphasize the fundamental aspects of padel that are crucial for your growth as a player. Mastering the essentials is not only a stepping stone to becoming a skilled player but also a gateway to unlocking the full potential of your game.
 
-It is worth noting that if you come from a background in tennis, squash, or badminton, you might assume that the basic shots in padel are similar or even identical to those in your previous racket sport. While there may be some similarities, it is crucial to understand that both the technique and intention behind these shots in padel are very different (block your wrist!).
+It is worth noting that if you come from a background in tennis, squash, or badminton, you might assume that the basic shots in padel are similar or even identical to those in your previous racket sport. While there may be some similarities, it is crucial to understand that both the technique(block your wrist!) and intention behind these shots in padel are very different.
 
 For example, in tennis, you might rely on powerful swings and generating pace to dominate the game. However, in padel, precision, control, and placement often take precedence over pure power. The shots you execute from the back of the court require a different swing path, adjustment in footwork, and an understanding of how the walls can be utilized to your advantage.
 
