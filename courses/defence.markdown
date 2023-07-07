@@ -30,4 +30,4 @@ During training we will focus on following:
 - **lobs**: how and when to use lobs and its different kinds effectively,
 - **volleys**: how to defend when being caught at the net and finally regain control of the rally
 
-By the end of the training session, you will have developed a deeper understanding of how to play, where to play, and when to play each of the overhead shots, allowing you to elevate your game and dominate the court.
+After attending this course, participants will gain a comprehensive understanding of the critical role defense plays in padel and how to effectively defend against various shots. They will acquire the skills and knowledge to anticipate and react quickly to shots that touch the side and back glass, enhancing their defensive capabilities. With improved court positioning, shot placement, and communication as a pair, participants will become confident and adept at keeping rallies under their control through strong defensive play.
