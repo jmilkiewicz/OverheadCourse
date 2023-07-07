@@ -16,7 +16,7 @@ Similarly, if you come from squash or badminton, you might be accustomed to play
 
 Padel is a unique sport that requires its own set of skills and strategies. The smaller court size, the presence of walls, and the specific rules of padel demand a distinct approach to the game. Therefore, to play padel effectively, it is essential to acknowledge that you may need to unlearn certain techniques and adjust your mindset.
 
-## Course Overview:
+## Expectations:
 
 - **forehand and backhand from a backcourt**: learn the proper grip, footwork, and swing mechanics for executing powerful and accurate forehand and backhand shots from the back of the court. Our coach will help you develop a consistent and reliable groundstroke technique.
 - **playing from a back glass**: discover the strategies and techniques involved in playing shots from the back glass. Our coach will teach you how to use the glass to your advantage and execute effective shots while maintaining control and accuracy.
