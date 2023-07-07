@@ -24,9 +24,9 @@ Whether you're a beginner looking to build a strong defensive foundation or an e
 
 During training we will focus on following:
 
-- **the fundamentals of padel defense**: understand and learn court position and movement of a defending pair, 
-- **back glass**: master defensive shots off the back glass, including accurate lobs, controlled clears, chiquitas and bajadas, 
-- **double glass**: learn how to return ball which hits back-and-side or side-and-back glass with or without turn,
+- **fundamentals of padel defense**: understand and learn court position and movement of a defending pair, 
+- **back/side glass shots**: master defensive shots off the back/side glass, including accurate lobs, controlled clears, chiquitas and bajadas, 
+- **double glass shots**: learn how to return ball which hits back-and-side or side-and-back glass with or without turn,
 - **lobs**: how and when to use lobs and its different kinds effectively,
 - **volleys**: how to defend when being caught at the net and finally regain control of the rally
 
