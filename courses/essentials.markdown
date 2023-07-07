@@ -5,6 +5,7 @@
 title: Padel Essentials
 layout: page
 ---
+>"You can practice shooting eight hours a day, but if your technique is wrong, then all you become is very good at shooting the wrong way. Get the fundamentals down and the level of everything you do will rise."
 
 This course is dedicated to emphasize the fundamental aspects of padel that are crucial for your growth as a player. Mastering the essentials is not only a stepping stone to becoming a skilled player but also a gateway to unlocking the full potential of your game.
 

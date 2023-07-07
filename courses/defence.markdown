@@ -5,7 +5,7 @@
 title: Padel Defence
 layout: page
 ---
-“Attack wins you games, defence wins you titles.”
+> “Attack wins you games, defence wins you titles.”
 
 In the fast-paced and dynamic game of padel, defense plays a crucial role in outlasting your opponents and gaining the upper hand. 
 This course is dedicated to enhancing your defensive skills and understanding the strategic aspects of padel defense. 
