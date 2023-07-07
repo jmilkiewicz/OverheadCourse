@@ -32,7 +32,7 @@ During training we will focus on following overhead shots:
 As an experienced instructor, I am committed to tailoring the training program to the level of experience of my participants.
 Beginner players can expect to focus on mastering the basics like the bandeja and flat smash, while more advanced players can expect to work on more complex shots like vibora, rulo and kick smash.
 
-After attending this course, participants will gain a comprehensive understanding of the critical role defense plays in padel and how to effectively defend against various shots. They will acquire the skills and knowledge to anticipate and react quickly to side/back/double glass shots, enhancing their defensive capabilities. With improved court positioning, shot placement, and communication as a pair, participants will become confident and adept at keeping rallies under their control through strong defensive play.
+By the end of the training session, you will have developed a deeper understanding of how to play, where to play, and when to play each of the overhead shots, allowing you to elevate your game and dominate the court.
 
 ### Sample shots  
 {% include googleDrivePlayer.html id='1bcbB6hQFvkfymJYwqVxT_oMIKza0xz1D' %}

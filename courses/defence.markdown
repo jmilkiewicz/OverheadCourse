@@ -30,6 +30,4 @@ During training we will focus on following:
 - **lobs**: how and when to use lobs and its different kinds effectively,
 - **volleys**: how to defend when being caught at the net and finally regain control of the rally
 
-By practicing correct court position and communication when defending as a pair, you will create a formidable defensive wall that will be challenging for your opponents to penetrate. This aspect of the training will not only improve your defensive skills but also foster teamwork and synergy with your partner. Together, you will be able to neutralize your opponents' attacks and turn defense into a powerful offensive opportunity.
-
-Join this course on padel defense and unlock the secrets of becoming an impenetrable defensive force on the court. With dedicated practice, effective court positioning, and seamless teamwork, you will gain the confidence and skills to frustrate your opponents and emerge victorious in every match.
+By the end of the training session, you will have developed a deeper understanding of how to play, where to play, and when to play each of the overhead shots, allowing you to elevate your game and dominate the court.
