@@ -19,8 +19,8 @@ Padel is a unique sport that requires its own set of skills and strategies. The 
 ## Course Overview:
 
 - **forehand and backhand from a backcourt**: learn the proper grip, footwork, and swing mechanics for executing powerful and accurate forehand and backhand shots from the back of the court. Our coach will help you develop a consistent and reliable groundstroke technique.
-- **playing from a back glass:**: discover the strategies and techniques involved in playing shots from the back glass. Our coach will teach you how to use the glass to your advantage and execute effective shots while maintaining control and accuracy.
-- **tactics for approaching the net:**: understand the importance of positioning and timing when it comes to transitioning from the backcourt to the net. Learn when and how to move forward strategically, putting pressure on your opponents and creating opportunities to dominate the point.
+- **playing from a back glass**: discover the strategies and techniques involved in playing shots from the back glass. Our coach will teach you how to use the glass to your advantage and execute effective shots while maintaining control and accuracy.
+- **tactics for approaching the net**: understand the importance of positioning and timing when it comes to transitioning from the backcourt to the net. Learn when and how to move forward strategically, putting pressure on your opponents and creating opportunities to dominate the point.
 - **volleys**: master the art of volleying in padel. Our coach will teach you the correct grip, body positioning and shot placement for successful volleys. You'll learn how to handle different types of volleys, including high volleys, low volleys and angled volleys.
 - **court positioning**: learn the fundamental principles of court positioning in a pair. Discover the optimal positions for both players, understanding how to cover the court efficiently and communicate effectively with your partner.
 
