@@ -28,6 +28,6 @@ During training we will focus on following:
 - **back glass**: master defensive shots off the back glass, including accurate lobs, controlled clears, chiquitas and bajadas, 
 - **double glass**: learn how to return ball which hits back-and-side or side-and-back glass with or without turn,
 - **lobs**: how and when to use lobs and its different kinds effectively,
-- **volleys**: how to defend when being caught at the net and finally regain control
+- **volleys**: how to defend when being caught at the net and finally regain control of the rally
 
 Learning how to make turns during padel defense is essential for maintaining control of the game and quickly transitioning from defense to offense. By mastering this aspect of defense, you will be able to anticipate shots, position yourself effectively, and execute powerful counterattacks. Through dedicated practice and a focus on proper footwork and timing, you will enhance your defensive capabilities and become a more versatile and formidable player on the court.
