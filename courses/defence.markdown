@@ -16,9 +16,9 @@ Whether you're a beginner looking to build a strong defensive foundation or an e
 ## Course Overview:
 
 - develop defensive skills that will help you withstand your opponents' attacks and maintain control of the game,
-- learn the different defensive shots and their specific techniques, including how to play with the back glass, side glass, and double glass effectively.
-- master the art of shot placement and varying shot pace to push your opponents back(counterattack) and gain a tactical advantage.
-- improve anticipation and reaction time to handle difficult shots and maintain a solid defensive position.
+- learn the different defensive shots and their specific techniques, including how to play with the back glass, side glass, and double glass effectively,
+- master the art of shot placement and varying shot pace to push your opponents back (and counterattack) to gain a tactical advantage,
+- improve anticipation and reaction time to handle difficult shots and maintain a solid defensive position
 
 ## Expectations:
 
