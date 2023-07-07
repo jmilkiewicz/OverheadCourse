@@ -11,8 +11,6 @@ In the fast-paced and dynamic game of padel, defense plays a crucial role in out
 This course is dedicated to enhancing your defensive skills and understanding the strategic aspects of padel defense. 
 Whether you're a beginner looking to build a strong defensive foundation or an experienced player aiming to refine your defensive techniques, this course is designed to take your defensive game to the next level.
 
-"Attack wins you games, defence wins you titles."
-
 ## Course Overview:
 
 - develop defensive skills that will help you withstand your opponents' attacks and maintain control of the game,
