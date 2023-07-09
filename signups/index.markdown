@@ -26,7 +26,7 @@ Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of
 
 ## Training selection
 
-During this event Manu will offer two **distinct** course.
+During this event Manu will offer two **distinct** courses.
 
 You will have the opportunity to **select** the one that suits you better for your current moment
 
