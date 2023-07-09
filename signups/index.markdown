@@ -8,14 +8,12 @@ layout: page
 
 # Berlin September 2023
 
-[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back to Berlin!
-
-This time Manu will provide us with two distinct courses:
+[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him two distinct courses:
 
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
 - [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %})
 
-Each participant can **choose** the course that suits them best for their current moment.
+Each participant can **choose** the course that best suits their current needs and goals.
 
 Click [here](#training-selection) for a help regarding training selection.
 
