@@ -13,7 +13,7 @@ layout: page
 This time Manu will provide us with two distinct courses:
 
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
-- [Padel Defence]({{ site.baseurl }}{% link courses/essentials.markdown %})
+- [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %})
 
 Each participant can **choose** the course that suits them best for their current moment.
 
@@ -38,7 +38,7 @@ You will have the opportunity to **select** the one that suits you better for yo
 - avoids playing with glass walls and/or
 - being often caught in unfavorable court positions.
 
-### **Padel Defense** is tailored for you when you:
+### **Padel Defence** is tailored for you when you:
 - want to focus purely on enhancing your defensive skills,
 - struggle with defending back/side/double glass shots and/or
 - are unable to transition from defense to attack effectively and/or
