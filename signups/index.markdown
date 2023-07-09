@@ -26,9 +26,10 @@ Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of
 
 ## Training selection
 
-During this event Manu will offer two **distinct** courses.
+During this event, Manu will be offering two distinct courses: [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) and [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %}). 
 
-You will have the opportunity to **select** the one that suits you better for your current moment
+We encourage you to carefully read the course descriptions for both programs, taking your time to explore the details of each
+and **select** the one that suits you better for your current moment.
 
 ### **Padel Essentials** is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
