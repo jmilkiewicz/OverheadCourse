@@ -10,7 +10,7 @@ layout: page
 
 [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back to Berlin !
 
-This time we could have 2 different trainings:
+This time we could have 2 different trainings to select:
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
 - [Padel Defence]({{ site.baseurl }}{% link courses/essentials.markdown %})
 
