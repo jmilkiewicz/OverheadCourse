@@ -30,7 +30,7 @@ During this event Manu will offer two **distinct** courses.
 
 You will have the opportunity to **select** the one that suits you better for your current moment
 
-### **Padel essentials** is aimed at individuals who:
+### **Padel Essentials** is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
 - struggles with shot selection and/or
 - plays non-effective overshots and/or
@@ -38,7 +38,7 @@ You will have the opportunity to **select** the one that suits you better for yo
 - avoids playing with glass walls and/or
 - being often caught in unfavorable court positions.
 
-### **Padel defense** is tailored for you when you:
+### **Padel Defense** is tailored for you when you:
 - want to focus purely on enhancing your defensive skills,
 - struggle with defending back/side/double glass shots and/or
 - are unable to transition from defense to attack effectively and/or
@@ -56,7 +56,7 @@ To be announced, but we will train in
 <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> or in  <a href="https://padelfc.com/" target="_blank"> Padel FC </a>
 
 ## Training Plan
-A separate group/groups for *padel essentials* and *padel defense* courses. Each group with 4 participants. 
+A separate group/groups for *Padel Essentials* and *Padel Defense* courses. Each group with 4 participants. 
 
 For each group:
 
