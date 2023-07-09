@@ -33,7 +33,8 @@ While it's natural to be ambitious and strive for greatness, rushing without a s
 ### **Padel essentials** is aimed at individuals who:
 - have improper shot/stance technique (potentially from other racket sports) and/or
 - struggle with shot selection and/or
-- play non-effective overshots,
+- play non-effective overshots and/or
+- miss too many volleys and/or
 - avoid playing with glass walls and/or
 - being often caught in unfavorable court positions.
 
