@@ -37,6 +37,7 @@ minima:
       title: Manu Soler on instagram
 
 header_pages:
+  - signups/index.markdown
   - courses/index.markdown
   - about.markdown
   - past/index.markdown
