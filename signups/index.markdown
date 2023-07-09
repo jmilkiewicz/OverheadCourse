@@ -44,11 +44,10 @@ You will have the opportunity to **select** the one that suits you better for yo
 - are unable to transition from defense to attack effectively and/or
 - can not play against hard hitters
 
-While it's natural to be ambitious and strive for greatness, rushing without a solid foundation can hinder progress and limit your true potential.
+While it's natural to be ambitious and strive for greatness, rushing without a solid foundation can make more harm than benefits.
+If you find yourself unsure about which course to choose, we recommend opting for the *Padel Essentials* over *Defense* for a well-rounded foundation in padel skills
 
-If you have doubt which training would be better for you then select *Padel essentials*. 
-
-If you are still not convinced, don't hesitate to contact us <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>, so we can help you make the most informative decision.  
+However, if you still have any further doubts or need assistance with selecting the right course for you, please feel free to contact us <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. We are here to help you make the best choice for your padel journey. 
 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
