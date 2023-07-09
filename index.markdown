@@ -11,7 +11,7 @@ Exciting Announcement: New Course Opening in Berlin, End of September!
 
 We are thrilled to announce the opening of our newest course in Berlin at the end of September. Registration is now [open]({% link signups/index.markdown %}), and we are offering early bird prices for a limited time!
 
-Spaces are limited, so don't miss this opportunity. Join us at the end of September for a great padel experience with a great coach.
+Spaces are **limited**, so don't miss this opportunity. Join us at the end of September for a great padel experience with a great coach.
 
 To register and secure your early bird pricing, [click here]({% link signups/index.markdown %}). We can't wait to welcome you to our new course in Berlin!
 
