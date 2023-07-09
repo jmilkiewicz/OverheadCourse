@@ -57,7 +57,7 @@ To be announced, but we will train in
 ## Training Plan
 A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each group with 4 participants. 
 
-For each group:
+Each group will experience an intensive **7.5-hour** training program, consisting of
 
 - 2 hours on Saturday,  
 - 2 hours on Sunday, 
