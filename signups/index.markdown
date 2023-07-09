@@ -70,8 +70,8 @@ To ensure that participants stay energized and focused, we will be providing a v
 
 ## Registration
 Prices:
-- 220/250 euro per person for padels essentials training (220 euro early bird, 250 euro regular price)
-- 250/280 euro per person for padel defense training (250 euro early bird, 280 euro regular price)
+- 220/250 euro per person for *padels essentials* training (220 euro early bird, 250 euro regular price)
+- 250/280 euro per person for *padel defense* training (250 euro early bird, 280 euro regular price)
 
 Total maximum number of participants is **12** and minimum is **8**.
 
