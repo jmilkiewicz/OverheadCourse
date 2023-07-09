@@ -56,7 +56,7 @@ To be announced, but we will train in
 <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> or in  <a href="https://padelfc.com/" target="_blank"> Padel FC </a>
 
 ## Training Plan
-All participants will be divided into groups of 4.
+A separate group/groups for *padel essentials* and *padel defense* courses. Each group with 4 participants. 
 
 For each group:
 
@@ -69,7 +69,7 @@ Specific hours and group allocations will be announced via whatsup at least a on
 
 ### Extras
 
-If you would like to play (within your training group) an extra 0.5 hour after each training let us know, and we can arrange it for you (so you will pay only for a court)
+If you would like to play (within your training group) an extra 0.5 hour after each training let us know (in registration form), and we can arrange it for you (so you will pay only for a court)
 
 We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants.
 
@@ -82,7 +82,7 @@ Prices:
 
 *Please note that there may be a slight price increase of up to 35 euros per participant (to cover court rentals) if participants decide on additional 0.5 hour of unsupervised game after each training session and/or a 2-hour mini-tournament on Tuesday.*
 
-Total maximum number of participants is **12** and minimum is **8**.
+Total maximum number of participants (for both courses) is **12** and minimum is **8**. 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1631" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
