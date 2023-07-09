@@ -10,7 +10,7 @@ layout: page
 
 [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back to Berlin!
 
-This time Manu will provide two distinct courses:
+This time Manu will provide us with two distinct courses:
 
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
 - [Padel Defence]({{ site.baseurl }}{% link courses/essentials.markdown %})
