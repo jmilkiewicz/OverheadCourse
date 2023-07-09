@@ -15,7 +15,7 @@ Spaces are limited, so don't miss this opportunity. Join us at the end of Septem
 
 To register and secure your early bird pricing, [click here]({% link signups/index.markdown %}). We can't wait to welcome you to our new course in Berlin!
 
-Take a moment to read carefully and explore [Training Selection]({% link signups/index.markdown %}#training-selection) section, where you'll find valuable information and guidance to help you make an informed choice.
+Take a moment to read carefully and explore [training selection]({% link signups/index.markdown %}#training-selection) section, where you'll find valuable information and guidance to help you make an informed choice.
 
 Stay tuned for more updates and announcements as we countdown to the grand opening. Get ready to ignite your passion for padel and take your game to new levels. 
 
