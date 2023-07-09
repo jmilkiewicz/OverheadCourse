@@ -10,32 +10,32 @@ layout: page
 
 [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back to Berlin !
 
-This time we could have 2 different trainings to select:
+We are delighted to announce that this time Manu will provide two distinct courses:
+
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
 - [Padel Defence]({{ site.baseurl }}{% link courses/essentials.markdown %})
 
+Each participant can **choose** the course that suits them best for their current moment.
 
-Please look at course descriptions to find out more what you will learn and practice.
+Click [here](#training-selection) for a help regarding training selection.
 
 ## Dates
 Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of October (day of German Unity).
 
 *If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.*
 
-## Location
-To be announced, but we will train in 
-<a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> or in  <a href="https://padelfc.com/" target="_blank"> Padel FC </a> 
-
 ## Training selection
 
-While it's natural to be ambitious and strive for greatness, rushing without a solid foundation can hinder progress and limit your true potential.
+During this event Manu will offer two **distinct** course.
+
+You will have the opportunity to **select** the one that suits you better for your current moment
 
 ### **Padel essentials** is aimed at individuals who:
-- have improper shot/stance technique (potentially from other racket sports) and/or
-- struggle with shot selection and/or
-- play non-effective overshots and/or
-- miss too many volleys and/or
-- avoid playing with glass walls and/or
+- wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
+- struggles with shot selection and/or
+- plays non-effective overshots and/or
+- misses too many volleys and/or
+- avoids playing with glass walls and/or
 - being often caught in unfavorable court positions.
 
 ### **Padel defense** is tailored for you when you:
@@ -44,9 +44,17 @@ While it's natural to be ambitious and strive for greatness, rushing without a s
 - are unable to transition from defense to attack effectively and/or
 - can not play against hard hitters
 
-If you are still not sure which training will be better for you don't hesitate to contact us <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. so we can help you make the most informative decision.  
+While it's natural to be ambitious and strive for greatness, rushing without a solid foundation can hinder progress and limit your true potential.
+
+If you have doubt which training would be better for you then select *Padel essentials*. 
+
+If you are still not convinced, don't hesitate to contact us <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>, so we can help you make the most informative decision.  
 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
+
+## Location
+To be announced, but we will train in
+<a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> or in  <a href="https://padelfc.com/" target="_blank"> Padel FC </a>
 
 ## Training Plan
 All participants will be divided into groups of 4.
@@ -77,7 +85,7 @@ Total maximum number of participants is **12** and minimum is **8**.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1631" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-Once your registration form is submitted, our team will review your request and you will receive further instructions on how to proceed with the payment.
+Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
 Upon successful payment, your registration will be considered complete.
 
