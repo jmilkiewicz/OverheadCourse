@@ -45,7 +45,7 @@ You will have the opportunity to **select** the one that suits you better for yo
 - can not play against hard hitters
 
 While it's natural to be ambitious and strive for greatness, rushing without a solid foundation can make more harm than benefits.
-If you find yourself unsure about which course to choose, we recommend opting for the *Padel Essentials* over *Defense* for a well-rounded foundation in padel skills.
+If you find yourself unsure about which course to choose, we recommend opting for the *Padel Essentials* over *Defence* for a well-rounded foundation in padel skills.
 
 However, if you still have any further doubts or need assistance with selecting the right course for you, please feel free to contact us <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. We are here to help you make the best choice for your padel journey. 
 
@@ -56,7 +56,7 @@ To be announced, but we will train in
 <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> or in  <a href="https://padelfc.com/" target="_blank"> Padel FC </a>
 
 ## Training Plan
-A separate group/groups for *Padel Essentials* and *Padel Defense* courses. Each group with 4 participants. 
+A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each group with 4 participants. 
 
 For each group:
 
@@ -80,7 +80,7 @@ Prices:
 - *Padel Essentials* course
   - 220 euro per person (early bird registration)  
   - 250 euro per person (regular registration)  
-- *Padel Defense* course
+- *Padel Defence* course
     - 250 euro per person (early bird registration)
     - 280 euro per person (regular registration)
 
