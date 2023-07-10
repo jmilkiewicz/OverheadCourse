@@ -42,7 +42,7 @@ header_pages:
   - about.markdown
   - past/index.markdown
 
-google_analytics: UA-273381390-1
+google_analytics: G-1MKCMMRHZ0
 #plugins:
 #  - jekyll-feed
 
