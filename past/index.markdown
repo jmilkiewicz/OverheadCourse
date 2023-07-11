@@ -14,10 +14,6 @@ Training has been provided from Friday 23rd to Monday 26th of June.
 
 On Friday,Sunday and Monday we have been training in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>, Königshorster Str. 11-15, 13439 Berlin, on Saturday in <a href="https://padelfc.com/" target="_blank"> Padel FC </a>, Köpenicker Ch 11-14, 10317 Berlin, Germany
 
-<iframe src="https://drive.google.com/file/d/1TfiEWyFO7fJGN2qtdoqy1Mo84NuloSOH/preview" width="640" height="480"></iframe>
-
-
-
-
-
-
+<iframe src="https://drive.google.com/file/d/1TfiEWyFO7fJGN2qtdoqy1Mo84NuloSOH/preview" width="640" height="480" frameBorder="0"></iframe>
+## After event survey
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ7VW8qiZNkzA_HQYMUWwgTbSm8UamJ4XZeSlynSWqzRbc33nJJQB2hBGS02t1hFc_fEiC0PhDiyuSs/pub?embedded=true" width="640" height="1510" frameBorder="0"></iframe>

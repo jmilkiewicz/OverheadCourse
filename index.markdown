@@ -34,6 +34,8 @@ Manu Soler's teaching approach is adaptable and can accommodate various group si
 
 We encourage you to seize this fantastic opportunity to bring Manu Soler's expertise to your club and offer your members an exceptional padel training experience. To discuss course options, pricing, and availability, please reach out to <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>.
 
+Still not convinced ? Take a look at our [past events]({% link past/index.markdown %}) and see how much participants loved it! Check out the feedback and surveys to get a sense of the incredible experiences shared by others. 
+
 ## Sample course plan for 8 participants
 All participants will be divided into groups of 4.
 
