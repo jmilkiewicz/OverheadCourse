@@ -59,7 +59,7 @@ Padel FC plans to organize a whole-day-event on 3rd of October and no courts wou
 ## Training Plan
 A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each group with 4 participants. 
 
-Each group will experience an intensive **7.5-hour** training program and 2 hours of unsupervised game, consisting of
+Each group will experience an intensive **7.5-hour** training program and **2 hours** of unsupervised game:
 
 - 2 hours on Saturday + 0.5 h unsupervised game,  
 - 2 hours on Sunday + 0.5 h unsupervised game, 
@@ -70,7 +70,7 @@ Specific hours and group allocations will be announced via whatsup at least a on
 
 ### Extras
 
-We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants.
+We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants and availabilities of courts.
 
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
