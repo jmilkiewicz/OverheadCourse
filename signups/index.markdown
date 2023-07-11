@@ -59,16 +59,14 @@ A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each
 
 Each group will experience an intensive **7.5-hour** training program, consisting of
 
-- 2 hours on Saturday,  
-- 2 hours on Sunday, 
-- 1.5 hour on Monday,  
-- 2 hours on Tuesday 
+- 2 hours on Saturday + 0.5 h unsupervised game,  
+- 2 hours on Sunday + 0.5 h unsupervised game, 
+- 1.5 hour on Monday + 0.5 h unsupervised game,
+- 2 hours on Tuesday + 0.5 h unsupervised game 
 
 Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
 
 ### Extras
-
-If you would like to play (within your training group) an extra 0.5 hour after each training let us know (in registration form), and we can arrange it for you (so you will pay only for a court)
 
 We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants.
 
@@ -77,13 +75,13 @@ To ensure that participants stay energized and focused, we will be providing a v
 ## Registration
 Prices:
 - *Padel Essentials* course
-  - 220 euro per person (early bird registration till 30th of July)  
-  - 250 euro per person (regular registration after 30th of July)  
+  - 240 euro per person (early bird registration till 30th of July)  
+  - 270 euro per person (regular registration after 30th of July)  
 - *Padel Defence* course
-    - 250 euro per person (early bird registration till 30th of July) 
-    - 280 euro per person (regular registration after 30th of July)
+    - 270 euro per person (early bird registration till 30th of July) 
+    - 300 euro per person (regular registration after 30th of July)
 
-*Please note that there may be a slight price increase of up to 35 euros per person (to cover court rentals) if participants decide on additional 0.5 hour of unsupervised game after each training session and/or a 2-hour mini-tournament on Tuesday.*
+*Please note that there may be a slight price increase of up to 18 euros per person (just to cover court rentals) if we decide on a 2-hour mini-tournament on Tuesday.*
 
 Total maximum number of participants (for both courses) is **12** and minimum is **8**. 
 
