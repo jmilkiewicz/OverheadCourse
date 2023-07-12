@@ -66,6 +66,12 @@ Each group will experience an intensive **7.5-hour** training program and **2 ho
 
 Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
 
+### Extras
+
+We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants and availabilities of courts.
+
+To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
+
 ### Private lessons
 
 If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
@@ -76,12 +82,6 @@ These private lessons will be provided on-demand (Friday-Tuesday) outside course
 | -----------        | ----------- |
 | 1:1         | 60 euro       |
 | 1:2         | 70 euro       |
-
-### Extras
-
-We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants and availabilities of courts.
-
-To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
 ## Registration
 Prices:
