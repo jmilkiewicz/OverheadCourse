@@ -20,7 +20,16 @@ Click [here](#training-selection) for a help regarding training selection.
 ## Dates
 Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of October (day of German Unity).
 
-*If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.*
+### Private lessons
+
+If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
+
+These private lessons will be provided on-demand (Friday-Tuesday) outside course training hours
+
+| Type of lesson     | Total price |
+| -----------        | ----------- |
+| 1:1         | 60 euro       |
+| 1:2         | 70 euro       |
 
 ## Training selection
 
