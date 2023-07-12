@@ -85,14 +85,13 @@ To ensure that participants stay energized and focused, we will be providing a v
 
 ## Registration
 Prices:
-- *Padel Essentials* course
-  - 240 euro per person (early bird registration till 30th of July)  
-  - 270 euro per person (regular registration after 30th of July)  
-- *Padel Defence* course
-    - 270 euro per person (early bird registration till 30th of July) 
-    - 300 euro per person (regular registration after 30th of July)
 
-*Please note that there may be a slight price increase of up to 18 euros per person (just to cover court rentals) if we decide on a 2-hour mini-tournament on Tuesday.*
+| Course type     | Till 30th of July | After 30th of July |
+| -----------        | ----------- |
+| *Padel Essentials*         | 240 euro       | 270 euro|
+| *Padel Defence*         | 270 euro       | 300 euro|
+
+[^1]: early bird registration 
 
 Total maximum number of participants (for both courses) is **12** and minimum is **8**. 
 
