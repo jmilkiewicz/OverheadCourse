@@ -20,17 +20,6 @@ Click [here](#training-selection) for a help regarding training selection.
 ## Dates
 Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of October (day of German Unity).
 
-### Private lessons
-
-If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
-
-These private lessons will be provided on-demand (Friday-Tuesday) outside course training hours
-
-| Type of lesson     | Total price |
-| -----------        | ----------- |
-| 1:1         | 60 euro       |
-| 1:2         | 70 euro       |
-
 ## Training selection
 
 During this event, Manu will be offering two distinct courses: [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) and [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %}). 
@@ -76,6 +65,17 @@ Each group will experience an intensive **7.5-hour** training program and **2 ho
 - 2 hours on Tuesday + 0.5 h unsupervised game 
 
 Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
+
+### Private lessons
+
+If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
+
+These private lessons will be provided on-demand (Friday-Tuesday) outside course training hours
+
+| Type of lesson     | Total price |
+| -----------        | ----------- |
+| 1:1         | 60 euro       |
+| 1:2         | 70 euro       |
 
 ### Extras
 
