@@ -9,11 +9,9 @@ layout: default
 
 Exciting Announcement: New Course Opening in Berlin, End of September!
 
-We are thrilled to announce the opening of our newest course in Berlin at the end of September. Registration is now [open]({% link signups/index.markdown %}), and we are offering early bird prices for a limited time!
+We are thrilled to announce the opening of our newest courses in Berlin at the end of September. Registration is now [open]({% link signups/index.markdown %}), and we are offering early bird prices for a limited time!
 
-Spaces are **limited**, so seize this opportunity to join us for an unforgettable **7.5-hour** padel training. Elevate your skills with the expert guidance of Manu Soler by your side. Don't miss out on this chance to take your game to new heights! 
-
-Take a moment to read carefully and explore [training selection]({% link signups/index.markdown %}#training-selection) section, where you'll find valuable information and guidance to help you make an informed choice.
+Spaces are **limited**, so seize this opportunity to join us for an unforgettable padel training. Elevate your skills with the expert guidance of  [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) by your side. Don't miss out on this chance to take your game to new heights! 
 
 Stay tuned for more updates and announcements as we countdown to the grand opening. Get ready to ignite your passion for padel and take your game to new levels. 
 
