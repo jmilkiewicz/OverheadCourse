@@ -51,11 +51,9 @@ However, if you still have any further doubts or need assistance with selecting 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
 ## Location
-To be announced, but we will train in
-<a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> or in  <a href="https://padelfc.com/" target="_blank"> Padel FC </a>
+We will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
 
-*Padel FC plans to organize a whole-day-event on 3rd of October and no courts would be available for rental, so we will train in WAP that day.*     
-
+*Our training sessions will take place from Saturday to Tuesday, with Monday being the only working day. WAP Berlin is extremely easily accessible by car on non-working days.*
 ## Training Plan
 A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each group with 4 participants. 
 
@@ -97,7 +95,7 @@ Prices:
 
 Total maximum number of participants (for both courses) is **12** and minimum is **8**. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1870" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
