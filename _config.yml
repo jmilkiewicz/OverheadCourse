@@ -38,7 +38,8 @@ minima:
 
 header_pages:
   - signups/index.markdown
-  - courses/index.markdown
+  - signups/ladies.markdown
+#  - courses/index.markdown
   - about.markdown
   - past/index.markdown
 
