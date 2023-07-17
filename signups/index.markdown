@@ -8,16 +8,15 @@ layout: page
 
 # Berlin September 2023
 
-[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him two distinct courses:
+[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him three distinct courses:
 
+- [Padel Ladies]({{ site.baseurl }}{% link signups/ladies.markdown %})
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
 - [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %})
 
 Each participant can **choose** the course that best suits their current needs and goals.
 
 Click [here](#training-selection) for a help regarding training selection.
-
-*We are considering creating a dedicated “girls-only” group for the “Padel Essentials” course. Join us for a fun, empowering, and supportive training experience tailored specifically for our female players.*
 
 ## Dates
 Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of October (day of German Unity).
