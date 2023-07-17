@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Berlin September 2023
+title: September 2023
 layout: page
 ---
 
@@ -95,7 +95,7 @@ Prices:
 
 Total maximum number of participants (for both courses) is **12** and minimum is **8**. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
