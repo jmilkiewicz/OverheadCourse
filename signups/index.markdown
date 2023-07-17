@@ -76,12 +76,12 @@ To ensure that participants stay energized and focused, we will be providing a v
 
 If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
 
-These private lessons will be provided on-demand (Friday-Tuesday) outside course training hours
+Private lessons will be provided on-demand (Friday-Tuesday) outside course training hours
 
-| Type of lesson     | Total price |
+| Type of lesson     | Total price 1h | Total price 1.5h |
 | -----------        | ----------- |
-| 1:1         | 60 euro       |
-| 1:2         | 70 euro       |
+| 1:1         | 60 euro       | 90 euro       |
+| 1:2         | 70 euro       |100 euro       |
 
 ## Registration
 Prices:
