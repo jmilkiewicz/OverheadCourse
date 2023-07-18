@@ -33,3 +33,6 @@ Padel is a unique sport that requires its own set of skills and strategies. The 
 - **court positioning**: learn the fundamental principles of court positioning in a pair. Discover the optimal positions for both players, understanding how to cover the court efficiently and communicate effectively with your partner.
 
 By the end of the "Padel Essentials" course, you will have a solid foundation in padel techniques and tactics, enabling you to play with confidence and skill. Whether you're aiming to compete or simply enjoy the game with friends, this course will equip you with the knowledge to take your padel game to the next level.
+
+### Sample shots
+{% include googleDrivePlayer.html id='1kASd3BN35vwVMFIF7CKKBIqkkPNYtcOj' %} 

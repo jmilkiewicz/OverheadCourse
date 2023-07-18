@@ -29,3 +29,6 @@ During training we will focus on following:
 - **volleys**: how to defend when being caught at the net and finally regain control of the rally
 
 After attending this course, participants will gain a comprehensive understanding of the critical role defence plays in padel and how to effectively defend against various shots. They will acquire the skills and knowledge to anticipate and react quickly to shots that touch the side and back glass, enhancing their defensive capabilities. With improved court positioning, shot placement, and communication as a pair, participants will become confident and adept at keeping rallies under their control through strong defensive play.
+
+### Sample shots
+{% include googleDrivePlayer.html id='1h-2rUq5yVLSpiqWn847w81DJ-YQM-O5T' %}
