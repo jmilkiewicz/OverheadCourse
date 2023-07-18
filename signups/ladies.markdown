@@ -46,9 +46,10 @@ Prices:
 
 Maximum number of participants is **8** and minimum is **4.** 
 
-Not convinced yet? Experience the extraordinary coaching of Manu with [snippets]({{ site.baseurl }}{% link about.markdown %}#sample-lesson-snippets) of actual lessons! Witness the expertise that will elevate your padel game to new heights. 
+Not convinced yet? Experience the extraordinary coaching of Manu with [snippets]({{ site.baseurl }}{% link about.markdown %}#sample-lesson-snippets) of actual lessons! 
+Witness the expertise that will elevate your padel game to new heights.
 
-Due to limited number of spots, we encourage early registration to secure your place: 
+To secure your spot and take advantage of early bird prices, register now before the limited spots fill up:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1230" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
