@@ -8,9 +8,8 @@ layout: page
 
 # Berlin September 2023
 
-[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him three distinct courses:
+[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him two distinct courses:
 
-- [Padel Ladies]({{ site.baseurl }}{% link signups/ladies.markdown %})
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
 - [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %})
 
