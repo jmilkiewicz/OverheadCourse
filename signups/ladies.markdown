@@ -21,7 +21,7 @@ Training will be provided from **Thursday 28th** September to **Saturday 30th** 
 We will train in <a href="https://padelfc.com/" target="_blank">Padel FC - Berlin</a>.
 
 ## Training Plan
-Two separate group/groups for *Padel Essentials Ladies*. Each group with 4 participants. 
+Two separate groups for *Padel Essentials Ladies*. Each group with 4 participants. 
 
 Each group will experience an intensive **4.5-hour** training program and **1 hours** of unsupervised game:
 
