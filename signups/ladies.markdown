@@ -8,7 +8,7 @@ layout: page
 
 # Padel Essentials Ladies: Empowering Women in Berlin!
 
-[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is providing an exclusive [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) course thoughtfully tailored for women players.
+[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is providing an exclusive [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) course dedicated to women players.
 
 Experience a supportive and empowering environment as female participants master the fundamentals of padel, growing into confident players on the court under the expert guidance of Manu.
 
