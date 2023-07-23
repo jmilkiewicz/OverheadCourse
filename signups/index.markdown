@@ -15,8 +15,12 @@ Each participant can **choose** the course that best suits their current needs a
 
 Click [here](#-training-selection) for a help regarding training selection.
 
-## 📅 Dates
-Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of October (day of German Unity).
+## 📅 Event Details 📍
+
+Training sessions will be held from **Saturday, September 30th** to **Tuesday, October 3rd** (German Unity Day)
+at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
+
+*WAP Berlin is conveniently accessible by car on non-working days. 🚗🎾*
 
 ## 🔀 Training selection
 
@@ -46,10 +50,6 @@ However, if you still have any further doubts or need assistance with selecting 
 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
-## 📍 Location
-We will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
-
-*Our training sessions will take place from Saturday to Tuesday, with Monday being the only working day. WAP Berlin is extremely easily accessible by car on non-working days.*
 ## 🗓️ Training Plan
 A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each group with 4 participants. 
 
