@@ -6,7 +6,7 @@ title: September 2023
 layout: page
 ---
 
-[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him two distinct courses:
+{% include manuSoler.markdown %} is finally back in Berlin, bringing with him two distinct courses:
 
 - {% include padelEssentials.markdown %}
 - {% include padelDefence.markdown %}

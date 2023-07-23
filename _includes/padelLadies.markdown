@@ -1,1 +1,1 @@
-Padel Essentials Ladies 👭🎯
+Padel Essentials Ladies 🎯👭
