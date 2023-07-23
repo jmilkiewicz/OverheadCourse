@@ -22,6 +22,8 @@ at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Ber
 
 *WAP Berlin is conveniently accessible by car on non-working days. 🚗🎾*
 
+Training will be provided in English. 
+
 ## 🔀 Training selection
 
 During this event, Manu will be offering two distinct courses: [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) and [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %}). 

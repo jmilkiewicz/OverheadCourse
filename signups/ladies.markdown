@@ -17,6 +17,8 @@ Secure your spot now and embark on an exciting journey of skill development and 
 
 The training will take place from **Thursday, September 28th** to **Saturday, September 30th** at <a href="https://padelfc.com/" target="_blank">Padel FC - Berlin</a>.
 
+Training will be provided in English.
+
 ## 🗓️ Training Plan
 Two separate groups for *Padel Essentials Ladies*. Each group with up to 4 participants. 
 
