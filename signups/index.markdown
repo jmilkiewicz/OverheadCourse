@@ -20,7 +20,7 @@ Click [here](#-training-selection) for a help regarding training selection.
 Training sessions will be held from **Saturday, September 30th** to **Tuesday, October 3rd** (German Unity Day)
 at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
 
-*WAP Berlin is conveniently accessible by car on non-working days. 🚗🎾*
+*WAP Berlin is very conveniently accessible by car on non-working days. 🚗🎾*
 
 Training will be provided in English. 
 
