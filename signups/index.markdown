@@ -8,8 +8,8 @@ layout: page
 
 [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him two distinct courses:
 
-- [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) 🎯
-- [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %}) ⚔️
+- {% include padelEssentials.markdown %}
+- {% include padelDefence.markdown %}
 
 Each participant can **choose** the course that best suits their current needs and goals.
 
@@ -26,7 +26,7 @@ Training will be provided in English.
 
 ## 🔀 Training selection
 
-During this event, Manu will be offering two distinct courses: [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) and [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %}). 
+This time, Manu will be offering two distinct courses: {% include padelEssentials.markdown %} and {% include padelDefence.markdown %}. 
 
 We encourage you to carefully read the course descriptions for both programs, taking your time to explore the details of each
 and **select** the one that suits you better for your current moment.

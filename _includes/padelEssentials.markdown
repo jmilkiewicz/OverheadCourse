@@ -1,0 +1,1 @@
+[Padel Essentials 🎯]({{ site.baseurl }}{% link courses/essentials.markdown %})

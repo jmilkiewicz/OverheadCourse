@@ -1,0 +1,1 @@
+[Padel Defence ⚔️]({{ site.baseurl }}{% link courses/defence.markdown %})
