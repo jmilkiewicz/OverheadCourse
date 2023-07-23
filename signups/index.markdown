@@ -10,24 +10,24 @@ layout: page
 
 [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him two distinct courses:
 
-- [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %})
-- [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %})
+- [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) 🎯
+- [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %}) ⚔️
 
 Each participant can **choose** the course that best suits their current needs and goals.
 
 Click [here](#training-selection) for a help regarding training selection.
 
-## Dates
+## 📅 Dates
 Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of October (day of German Unity).
 
-## Training selection
+## 🔀 Training selection
 
 During this event, Manu will be offering two distinct courses: [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) and [Padel Defence]({{ site.baseurl }}{% link courses/defence.markdown %}). 
 
 We encourage you to carefully read the course descriptions for both programs, taking your time to explore the details of each
 and **select** the one that suits you better for your current moment.
 
-### **Padel Essentials** is aimed at individuals who:
+### **Padel Essentials 🎯** is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
 - struggles with shot selection and/or
 - plays non-effective overshots and/or
@@ -35,7 +35,7 @@ and **select** the one that suits you better for your current moment.
 - avoids playing with glass walls and/or
 - being often caught in unfavorable court positions.
 
-### **Padel Defence** is tailored for you when you:
+### **Padel Defence ⚔️** is tailored for you when you:
 - want to focus purely on enhancing your defensive skills,
 - struggle with defending back/side/double glass shots and/or
 - are unable to transition from defense to attack effectively and/or
@@ -48,11 +48,11 @@ However, if you still have any further doubts or need assistance with selecting 
 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
-## Location
+## 📍 Location
 We will train in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
 
 *Our training sessions will take place from Saturday to Tuesday, with Monday being the only working day. WAP Berlin is extremely easily accessible by car on non-working days.*
-## Training Plan
+## 🗓️ Training Plan
 A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each group with 4 participants. 
 
 Each group will experience an intensive **7.5-hour** training program and **2 hours** of unsupervised game:
@@ -64,13 +64,16 @@ Each group will experience an intensive **7.5-hour** training program and **2 ho
 
 Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
 
-### Extras
+### 🎁 Extras
 
 We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants and availabilities of courts.
 
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
-### Private lessons
+### 🤷‍ Not sure?
+Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/index.markdown %}#after-event-survey) Manu's course in the previous event!
+
+### 👥 Private lessons
 
 If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
 
@@ -81,7 +84,7 @@ Private lessons will be provided on-demand (Friday-Tuesday) outside course train
 | 1:1         | 60 euro       | 90 euro       |
 | 1:2         | 70 euro       |100 euro       |
 
-## Registration
+## 📝 Registration
 Prices:
 
 | Course type     | Till 30th of July | After 30th of July |
