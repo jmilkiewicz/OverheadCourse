@@ -71,7 +71,7 @@ We are considering organizing a small tournament (possibly Americano-style) on T
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
 ### 🤷‍ Not sure?
-Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/index.markdown %}#after-event-survey) Manu's course in the previous event!
+Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/index.markdown %}) Manu's course in the previous event!
 
 ### 👥 Private lessons
 
