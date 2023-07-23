@@ -83,7 +83,6 @@ Private lessons will be provided on-demand (Friday-Tuesday) outside course train
 | 1:2         | 70 euro       |105 euro       |
 
 ## 📝 Registration
-Prices:
 
 | Course type     | Till 30th of July | After 30th of July |
 | -----------        | ----------- |
