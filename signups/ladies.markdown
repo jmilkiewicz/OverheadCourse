@@ -6,22 +6,20 @@ title: Ladies September 2023
 layout: page
 ---
 
-# Padel Essentials Ladies: Empowering Women in Berlin!
+# Padel Essentials Ladies: Empowering Women in Berlin!👭
 
-[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is providing an exclusive [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) course dedicated to women players of all levels.
+[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is providing an exclusive [Padel Essentials 🎯]({{ site.baseurl }}{% link courses/essentials.markdown %}) course dedicated to women players of all levels.
 
 Experience a supportive and empowering environment as female participants master the fundamentals of padel, growing into confident players on the court under the expert guidance of Manu.
 
-Secure your spot now and embark on an exciting journey of skill development and camaraderie on the padel court. Join us for this empowering course and take your padel game to new heights!
+Secure your spot now and embark on an exciting journey of skill development and camaraderie on the padel court. Join us for this empowering course and elevate your padel to new levels!🎾📈
 
-## Dates
-Training will be provided from **Thursday 28th** September to **Saturday 30th** of September.
+## 📅 Event Details 📍
 
-## Location
-We will train in <a href="https://padelfc.com/" target="_blank">Padel FC - Berlin</a>.
+The training will take place from **Thursday, September 28th** to **Saturday, September 30th** at <a href="https://padelfc.com/" target="_blank">Padel FC - Berlin</a>.
 
-## Training Plan
-Two separate groups for *Padel Essentials Ladies*. Each group with 4 participants. 
+## 🗓️ Training Plan
+Two separate groups for *Padel Essentials Ladies*. Each group with up to 4 participants. 
 
 Each group will experience an intensive **4.5-hour** training program and **1 hours** of unsupervised game:
 
@@ -33,21 +31,22 @@ On Thursday/Friday training sessions would start from **18:00** and on Saturday 
 
 Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
 
-### Extras
+### 🎁 Extras
 
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
-## Registration
-Prices:
+### 🤷‍ Still not sure?
+Experience the extraordinary coaching of Manu with [snippets]({{ site.baseurl }}{% link about.markdown %}#sample-lesson-snippets) of actual lessons!
 
-| Course type     | Till 30th of July | After 30th of July |
+Witness the expertise that will take your padel new heights!🚀
+
+## 📝 Registration
+
+| Course type     | Till 15th of August | After 15th of August |
 | -----------        | ----------- |
 | *Padel Essentials Ladies*         | 160 euro       | 190 euro|
 
 Maximum number of participants is **8** and minimum is **4.** 
-
-Not convinced yet? Experience the extraordinary coaching of Manu with [snippets]({{ site.baseurl }}{% link about.markdown %}#sample-lesson-snippets) of actual lessons! 
-Witness the expertise that will elevate your padel game to new heights.
 
 To secure your spot and take advantage of early bird prices, register now before the limited spots fill up:
 
