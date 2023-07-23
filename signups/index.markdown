@@ -6,8 +6,6 @@ title: September 2023
 layout: page
 ---
 
-# Berlin September 2023
-
 [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is finally back in Berlin, bringing with him two distinct courses:
 
 - [Padel Essentials]({{ site.baseurl }}{% link courses/essentials.markdown %}) 🎯
