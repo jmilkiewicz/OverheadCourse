@@ -45,7 +45,7 @@ Witness the expertise that will take your padel new heights!🚀
 
 | Course name     | Till 13th of August | After 13th of August |
 | -----------        | ----------- |
-| {% include padelLadies.markdown %}         | 160 euro       | 190 euro|
+| {% include padelLadies.markdown %}         | 150 euro       | 190 euro|
 
 Maximum number of participants is **8** and minimum is **4.** 
 
