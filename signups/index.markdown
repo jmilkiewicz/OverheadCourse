@@ -82,7 +82,7 @@ Private lessons will be provided on-demand (Friday-Tuesday) outside course train
 | Type of lesson     | Total price 1h | Total price 1.5h |
 | -----------        | ----------- |
 | 1:1         | 60 euro       | 90 euro       |
-| 1:2         | 70 euro       |100 euro       |
+| 1:2         | 70 euro       |105 euro       |
 
 ## 📝 Registration
 Prices:
