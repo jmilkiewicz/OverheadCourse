@@ -5,7 +5,6 @@
 title: Ladies September 2023
 layout: page
 ---
-
 # Padel Essentials Ladies: Empowering Women in Berlin!👭
 
 [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is providing an exclusive [Padel Essentials 🎯]({{ site.baseurl }}{% link courses/essentials.markdown %}) course dedicated to women players of all levels.
