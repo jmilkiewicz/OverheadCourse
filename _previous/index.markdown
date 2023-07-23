@@ -8,7 +8,7 @@ layout: default
 
 # Berlin June 2023
 
-For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is coming to Berlin to provide his padel overheads course/training.
+For the first time {% include manuSoler.markdown %} is coming to Berlin to provide his padel overheads course/training.
 
 {% include localVideo.html id='manuoverheads.mp4' %}
 <br/>

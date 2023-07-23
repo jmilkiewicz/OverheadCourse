@@ -11,7 +11,7 @@ layout: default
 
 We are thrilled to announce the opening of our newest courses in Berlin at the end of September. Registration is now [open]({% link signups/index.markdown %}), and we are offering early bird prices for a limited time! 💰
 
-Spaces are **limited**, so seize this opportunity to join us for an unforgettable padel training. Elevate your skills with the expert guidance of [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) by your side. Don't miss out on this chance to take your game to new heights! 🚀 
+Spaces are **limited**, so seize this opportunity to join us for an unforgettable padel training. Elevate your skills with the expert guidance of {% include manuSoler.markdown %} by your side. Don't miss out on this chance to take your game to new heights! 🚀 
 
 Stay tuned for more updates and announcements as we countdown to the grand opening. Get ready to ignite your passion for padel and take your game to new levels.🔥 
 
@@ -22,7 +22,7 @@ See you soon on a court in Berlin!
 ![Manu Soler](/assets/images/PHOTO-2023-06-01-23-00-58.jpeg)
 
 
-We are excited to introduce you to [Manu Soler]({{ site.baseurl }}{% link about.markdown %}), a highly skilled and dedicated padel coach who is now available to provide top-notch padel courses at your club. With his extensive experience and passion for the sport, Manu Soler offers a range of training options tailored to suit the needs of your club members.
+We are excited to introduce you to {% include manuSoler.markdown %}, a highly skilled and dedicated padel coach who is now available to provide top-notch padel courses at your club. With his extensive experience and passion for the sport, Manu Soler offers a range of training options tailored to suit the needs of your club members.
 
 Manu Soler understands that each player has unique goals and requirements when it comes to improving their padel skills. While he has [predefined courses]({% link courses/index.markdown %}) that cover various aspects of the game, he is also flexible and open to arranging customized courses based on the specific needs of your members. Whether it's beginners seeking a solid foundation or advanced players aiming to fine-tune their technique, Manu Soler can create a program that meets their individual aspirations.
 
