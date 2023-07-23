@@ -7,7 +7,7 @@ layout: default
 ---
 
 # Berlin 23rd - 26th of June 2023
-For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) has come to Berlin to provide his padel [overheads course/training]({{ site.baseurl }}{% link courses/overheads.markdown %}).
+For the first time [Manu Soler]({{ site.baseurl }}{% link about.markdown %}) has come to Berlin to provide his padel [overheads course 💥]({{ site.baseurl }}{% link courses/overheads.markdown %}).
 
 We have been training in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> and <a href="https://padelfc.com/" target="_blank">Padel FC</a>.
 <iframe src="https://drive.google.com/file/d/1TfiEWyFO7fJGN2qtdoqy1Mo84NuloSOH/preview" width="640" height="480" frameBorder="0"></iframe>
