@@ -43,7 +43,7 @@ Witness the expertise that will take your padel new heights!🚀
 
 ## 📝 Registration
 
-| Course name     | Till 15th of August | After 15th of August |
+| Course name     | Till 13th of August | After 13th of August |
 | -----------        | ----------- |
 | {% include padelLadies.markdown %}         | 160 euro       | 190 euro|
 
