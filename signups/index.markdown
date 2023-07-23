@@ -15,7 +15,7 @@ layout: page
 
 Each participant can **choose** the course that best suits their current needs and goals.
 
-Click [here](#training-selection) for a help regarding training selection.
+Click [here](#-training-selection) for a help regarding training selection.
 
 ## 📅 Dates
 Training will be provided from **Saturday 30th** September to **Tuesday 3rd** of October (day of German Unity).
