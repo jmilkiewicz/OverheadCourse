@@ -1,0 +1,1 @@
+[Manu Soler]({{ site.baseurl }}{% link about.markdown %})

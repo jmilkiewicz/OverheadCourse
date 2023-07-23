@@ -7,7 +7,7 @@ layout: page
 ---
 # Padel Essentials Ladies: Empowering Women in Berlin!👭
 
-[Manu Soler]({{ site.baseurl }}{% link about.markdown %}) is providing an exclusive {% include padelEssentials.markdown %} course dedicated to women players of all levels.
+{% include manuSoler.markdown %} is providing **{% include padelLadies.markdown %}**, a tailor-made {% include padelEssentials.markdown %} course exclusively for women players of all levels!
 
 Experience a supportive and empowering environment as female participants master the fundamentals of padel, growing into confident players on the court under the expert guidance of Manu.
 
@@ -20,7 +20,7 @@ The training will take place from **Thursday, September 28th** to **Saturday, Se
 Training will be provided in English.
 
 ## 🗓️ Training Plan
-Two separate groups for *Padel Essentials Ladies*. Each group with up to 4 participants. 
+Two separate groups for {% include padelLadies.markdown %}. Each group with up to 4 participants. 
 
 Each group will experience an intensive **4.5-hour** training program and **1 hours** of unsupervised game:
 
@@ -43,9 +43,9 @@ Witness the expertise that will take your padel new heights!🚀
 
 ## 📝 Registration
 
-| Course type     | Till 15th of August | After 15th of August |
+| Course name     | Till 15th of August | After 15th of August |
 | -----------        | ----------- |
-| *Padel Essentials Ladies*         | 160 euro       | 190 euro|
+| {% include padelLadies.markdown %}         | 160 euro       | 190 euro|
 
 Maximum number of participants is **8** and minimum is **4.** 
 

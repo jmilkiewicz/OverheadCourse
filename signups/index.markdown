@@ -31,7 +31,7 @@ This time, Manu will be offering two distinct courses: {% include padelEssential
 We encourage you to carefully read the course descriptions for both programs, taking your time to explore the details of each
 and **select** the one that suits you better for your current moment.
 
-### **Padel Essentials 🎯** is aimed at individuals who:
+### {% include padelEssentials.markdown %} is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
 - struggles with shot selection and/or
 - plays non-effective overshots and/or
@@ -39,7 +39,7 @@ and **select** the one that suits you better for your current moment.
 - avoids playing with glass walls and/or
 - being often caught in unfavorable court positions.
 
-### **Padel Defence ⚔️** is tailored for you when you:
+### {% include padelDefence.markdown %} is tailored for you when you:
 - want to focus purely on enhancing your defensive skills,
 - struggle with defending back/side/double glass shots and/or
 - are unable to transition from defense to attack effectively and/or
@@ -53,7 +53,7 @@ However, if you still have any further doubts or need assistance with selecting 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
 ## 🗓️ Training Plan
-A separate group/groups for *Padel Essentials* and *Padel Defence* courses. Each group with 4 participants. 
+A separate group/groups for {% include padelEssentials.markdown %} and {% include padelDefence.markdown %} courses. Each group with up to 4 participants. 
 
 Each group will experience an intensive **7.5-hour** training program and **2 hours** of unsupervised game:
 
@@ -86,10 +86,10 @@ Private lessons will be provided on-demand (Friday-Tuesday) outside course train
 
 ## 📝 Registration
 
-| Course type     | Till 30th of July | After 30th of July |
+| Course name     | Till 30th of July | After 30th of July |
 | -----------        | ----------- |
-| *Padel Essentials*         | 240 euro       | 270 euro|
-| *Padel Defence*         | 270 euro       | 300 euro|
+| {% include padelEssentials.markdown %}         | 240 euro       | 270 euro|
+| {% include padelDefence.markdown %}        | 270 euro       | 300 euro|
 
 *Please note that there may be a slight price increase of up to 18 euros per person (just to cover court rentals) if we decide on a 2-hour mini-tournament on Tuesday.*
 
