@@ -22,7 +22,7 @@ Training will be provided in English.
 ## 🗓️ Training Plan
 Two separate groups for {% include padelLadies.markdown %}. Each group with up to 4 participants. 
 
-Each group will experience an intensive **4.5-hour** training program and **1 hours** of unsupervised game:
+Each group will experience **4.5-hour** training program and **1 hours** of unsupervised game:
 
 - 1.5 hour on Thursday + 0.5 h unsupervised game,   
 - 1.5 hour on Friday + 0.5 h unsupervised game,
