@@ -55,15 +55,16 @@ Witness the expertise that will take your padel new heights!🚀
 
 ## 📝 Registration
 
-| Course name     | Till 13th of August | After 13th of August |
+| {% include padelLadies.markdown %}     | Till 13th of August | After 13th of August |
 | -----------        | ----------- |
-| {% include padelLadies.markdown %}         | 150 euro       | 190 euro|
+| individual reservation         | 150 euro       | 190 euro|
+| group reservation *(4 ladies in the same group)*  | 460 euro       | 600 euro|
 
 Maximum number of participants is **8** and minimum is **4.** 
 
 To secure your spot and take advantage of early bird prices, register now before the limited spots fill up:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1230" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
