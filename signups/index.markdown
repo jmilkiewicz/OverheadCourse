@@ -70,9 +70,6 @@ We are considering organizing a small tournament (possibly Americano-style) on T
 
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
-### 🤷‍ Not sure?
-Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/index.markdown %}) Manu's course in the previous event!
-
 ### 👥 Private lessons
 
 If you can not make full 4 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
@@ -83,6 +80,9 @@ Private lessons will be provided on-demand (Friday-Tuesday) outside course train
 | -----------        | ----------- |
 | 1:1         | 70 euro       | 100 euro       |
 | 1:2         | 80 euro       | 115 euro       |
+
+### 🤷‍ Not sure?
+Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/index.markdown %}) Manu's course in the previous event!
 
 ## 📝 Registration
 

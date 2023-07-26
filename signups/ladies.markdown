@@ -36,11 +36,6 @@ Specific hours and group allocations will be announced via whatsup at least a on
 
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
-### 🤷‍ Still not sure?
-Experience the extraordinary coaching of Manu with [snippets]({{ site.baseurl }}{% link about.markdown %}#sample-lesson-snippets) of actual lessons!
-
-Witness the expertise that will take your padel new heights!🚀
-
 ### 👥 Private lessons
 
 If you can not make full 3 days, but you are interested in having padel lesson/lessons with Manu, contact <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. Both 1:1 and 1:2 options are available.
@@ -51,6 +46,11 @@ Private lessons will be provided on-demand (Thursday-Tuesday) outside course tra
 | -----------        | ----------- |
 | 1:1         | 70 euro       | 100 euro       |
 | 1:2         | 80 euro       | 115 euro       |
+
+### 🤷‍ Still not sure?
+Experience the extraordinary coaching of Manu with [snippets]({{ site.baseurl }}{% link about.markdown %}#sample-lesson-snippets) of actual lessons!
+
+Witness the expertise that will take your padel new heights!🚀
 
 
 ## 📝 Registration
