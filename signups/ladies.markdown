@@ -58,7 +58,7 @@ Witness the expertise that will take your padel new heights!🚀
 | {% include padelLadies.markdown %}     | Till 13th of August | After 13th of August |
 | -----------        | ----------- |
 | individual reservation         | 150 euro       | 180 euro|
-| group reservation *(4 ladies in the same group)*  | 460 euro       | 600 euro|
+| group reservation *(4 ladies in the same group)*  | 480 euro       | 600 euro|
 
 Maximum number of participants is **8** and minimum is **4.** 
 
