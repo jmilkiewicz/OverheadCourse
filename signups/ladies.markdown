@@ -20,7 +20,7 @@ The training will take place from **Thursday, September 28th** to **Saturday, Se
 Training will be provided in English.
 
 ## 🗓️ Training Plan
-Two separate groups for {% include padelLadies.markdown %}. Each group with up to 4 participants. 
+Two separate groups for {% include padelLadies.markdown %} ensuring a personalized experience for all female participants with similar skill levels in each group, accommodating up to 4 participants. 
 
 Each group will experience **4.5-hour** training program and **1 hours** of unsupervised game:
 
