@@ -20,17 +20,17 @@ The training will take place from **Thursday, September 28th** to **Saturday, Se
 Training will be provided in English.
 
 ## 🗓️ Training Plan
-Two separate groups for {% include padelLadies.markdown %} ensuring a personalized experience for all female participants with similar skill levels in each group, accommodating up to 4 participants. 
+Two separate groups for {% include padelLadies.markdown %}, ensuring a personalized experience for all female participants with similar skill levels in each group, accommodating up to 4 participants. 
 
-Each group will experience **4.5-hour** training program and **1 hours** of unsupervised game:
+Each group will experience a **4.5-hour** training program and **1 hours** of unsupervised gameplay:
 
-- 1.5 hour on Thursday + 0.5 h unsupervised game,   
-- 1.5 hour on Friday + 0.5 h unsupervised game,
+- 1.5 hour on Thursday + 0.5 h unsupervised gameplay,   
+- 1.5 hour on Friday + 0.5 h unsupervised gameplay,
 - 1.5 hours on Saturday. 
 
-On Thursday/Friday training sessions would start from **18:00** and on Saturday from **19:00**.
+On Thursday/Friday training sessions would start from **18:00**, and on Saturday, from **19:00**.
 
-Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
+Specific hours and group allocations will be announced via WhatsApp at least one week before the course starts.
 
 ### 🎁 Extras
 
