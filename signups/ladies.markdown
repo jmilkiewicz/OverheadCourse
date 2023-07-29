@@ -11,7 +11,7 @@ layout: page
 
 Experience a supportive and empowering environment as female participants master the fundamentals of padel, growing into confident players on the court under the expert guidance of Manu.
 
-Secure your spot now and embark on an exciting journey of skill development and camaraderie on the padel court. Join us for this empowering course and elevate your padel to new levels!🎾📈
+Click [here]({{ site.baseurl }}{% link courses/essentials.markdown %}) to explore the empowering journey that awaits you in {% include padelLadies.markdown %} course. Secure your spot now and elevate your padel game with Manu Soler!🎾📈
 
 ## 📅 Event Details 📍
 

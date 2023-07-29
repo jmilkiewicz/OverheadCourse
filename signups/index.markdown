@@ -11,7 +11,7 @@ layout: page
 - {% include padelEssentials.markdown %}
 - {% include padelDefence.markdown %}
 
-Each participant can **choose** the course that best suits their current needs and goals.
+Each participant can **choose** the course that best suits their current needs and goals. Discover more about each training program by clicking on the courses above.
 
 Click [here](#-course-selection) for help regarding course selection.
 
