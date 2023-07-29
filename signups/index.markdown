@@ -6,14 +6,14 @@ title: September 2023
 layout: page
 ---
 
-{% include manuSoler.markdown %} is finally back in Berlin, bringing with him two distinct courses:
+{% include manuSoler.markdown %} is finally back in Berlin with two distinct courses for players ranging from *beginner+* to *advanced* levels:
 
 - {% include padelEssentials.markdown %}
 - {% include padelDefence.markdown %}
 
 Each participant can **choose** the course that best suits their current needs and goals.
 
-Click [here](#-training-selection) for a help regarding training selection.
+Click [here](#-course-selection) for help regarding course selection.
 
 ## 📅 Event Details 📍
 
@@ -24,7 +24,7 @@ at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Ber
 
 Training will be provided in English. 
 
-## 🔀 Training selection
+## 🔀 Course selection
 
 This time, Manu will be offering two distinct courses: {% include padelEssentials.markdown %} and {% include padelDefence.markdown %}. 
 
@@ -46,14 +46,14 @@ and **select** the one that suits you better for your current moment.
 - can not play against hard hitters
 
 While it's natural to be ambitious and strive for greatness, rushing without a solid foundation can make more harm than benefits.
-If you find yourself unsure about which course to choose, we recommend opting for the *Padel Essentials* over *Defence* for a well-rounded foundation in padel skills.
+If you find yourself unsure about which course to choose, we recommend opting for the *{% include padelEssentials.markdown %}* over *{% include padelDefence.markdown %}* for a well-rounded foundation in padel skills.
 
 However, if you still have any further doubts or need assistance with selecting the right course for you, please feel free to contact us <a href="https://www.instagram.com/manusoler_padel" target="_blank">@manusoler_padel</a> or <a class="u-email" href="mailto:manupadelin@gmail.com">manupadelin@gmail.com</a>. We are here to help you make the best choice for your padel journey. 
 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
 ## 🗓️ Training Plan
-A separate group/groups for {% include padelEssentials.markdown %} and {% include padelDefence.markdown %} courses. Each group with up to 4 participants. 
+A separate group/groups for {% include padelEssentials.markdown %} and {% include padelDefence.markdown %} courses, ensuring participants are grouped based on their similar skill levels, with each group accommodating up to 4 participants. 
 
 Each group will experience an intensive **7.5-hour** training program and **2 hours** of unsupervised game:
 
