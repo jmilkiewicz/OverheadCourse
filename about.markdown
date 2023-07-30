@@ -9,13 +9,10 @@ I'm Manu Soler <a href="https://www.instagram.com/manusoler_padel" target="_blan
 ## Sample lesson snippets
 
 #### Bandeja basics
-{% include googleDrivePlayer.html id='1S9jfU6F0SvRp74IjGWDHboQKXQFUWPmP' %}
-{% include googleDrivePlayer.html id='1ZFv9IVMMMQhMBQjk1S3GePI3PHu-4XZ1' %}
-
-
+<video controls="true" width='640' height='400' src='/assets/videos/bandeja-marta.mp4'></video>
 
 #### Vibora & backhand volley
-{% include googleDrivePlayer.html id='1QvJytgLjwa4LCIChR2iqIym1MxnKXdrh' %}
+<video controls="true" width='640' height='400' src='/assets/videos/vibora-ja.mp4'></video>
 
 
 
