@@ -86,10 +86,9 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 
 ## 📝 Registration
 
-| Course name     | Till 30th of July | After 30th of July |
-| -----------        | ----------- |
-| {% include padelEssentials.markdown %}         | 240 euro       | 270 euro|
-| {% include padelDefence.markdown %}        | 270 euro       | 300 euro|
+| Course name     | Price | 
+| {% include padelEssentials.markdown %}         | 270 euro|
+| {% include padelDefence.markdown %}        | 290 euro|
 
 *Please note that there may be a slight price increase of up to 18 euros per person (just to cover court rentals) if we decide on a 2-hour mini-tournament on Tuesday.*
 
