@@ -66,8 +66,6 @@ Specific hours and group allocations will be announced via whatsup at least a on
 
 ### 🎁 Extras
 
-We are considering organizing a small tournament (possibly Americano-style) on Tuesday evenings. However, the feasibility of this tournament depends on the interest and willingness of the participants and availabilities of courts.
-
 To ensure that participants stay energized and focused, we will be providing a variety of (healthy) snacks.
 
 ### 👥 Private lessons
@@ -89,8 +87,6 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 | Course name     | Price | 
 | {% include padelEssentials.markdown %}         | 270 euro|
 | {% include padelDefence.markdown %}        | 290 euro|
-
-*Please note that there may be a slight price increase of up to 18 euros per person (just to cover court rentals) if we decide on a 2-hour mini-tournament on Tuesday.*
 
 Total maximum number of participants (for both courses) is **12** and minimum is **8**. 
 
