@@ -64,7 +64,7 @@ Maximum number of participants is **8** and minimum is **4.**
 
 To secure your spot and take advantage of early bird prices, register now before the limited spots fill up:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
