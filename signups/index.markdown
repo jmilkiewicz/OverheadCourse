@@ -84,11 +84,16 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 
 ## 📝 Registration
 
+<i>The event is almost fully booked!</i> 
+
+Only 3 spots left for the Padel Essentials 🎯 course:
+- 2 spots available in a group with players at the Playtomic level 1-2,
+- 1 spot available in a group with players at the Playtomic ~ 3  
+
 | Course name     | Price | 
 | {% include padelEssentials.markdown %}         | 270 euro|
-| {% include padelDefence.markdown %}        | 290 euro|
 
-Total maximum number of participants (for both courses) is **12** and minimum is **8**. 
+Secure your spot before they're gone!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
