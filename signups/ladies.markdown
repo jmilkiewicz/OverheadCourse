@@ -55,6 +55,10 @@ Witness the expertise that will take your padel new heights!🚀
 
 ## 📝 Registration
 
+<i>The event is almost fully booked!</i>
+
+Last <b>2</b> spots left in a group for absolute beginners and/or women with minimal experience.
+
 | {% include padelLadies.markdown %}     | Till 13th of August | After 13th of August |
 | -----------        | ----------- |
 | individual reservation         | 150 euro       | 180 euro|
