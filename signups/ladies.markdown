@@ -52,20 +52,20 @@ Experience the extraordinary coaching of Manu with [snippets]({{ site.baseurl }}
 
 Witness the expertise that will take your padel new heights!🚀
 
-
 ## 📝 Registration
 
 <i>The event is almost fully booked!</i>
 
-Last <b>2</b> spots left in a group for absolute beginners and/or women with minimal experience.
+<b>Last 2</b> spots left in a group for absolute beginners and/or women with minimal experience.
 
-| {% include padelLadies.markdown %}     | Till 13th of August | After 13th of August |
-| -----------        | ----------- |
-| individual reservation         | 150 euro       | 180 euro|
+| {% include padelLadies.markdown %}  |  Price |
+| ----------- | ----------- |
+| individual reservation            | 180 euro|
+| reservation for 2 ladies         |  320 euro|
 
 Maximum number of participants is **8** and minimum is **4.** 
 
-To secure your spot and take advantage of early bird prices, register now before the limited spots fill up:
+To secure your spot, register now before the limited spots fill up:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
