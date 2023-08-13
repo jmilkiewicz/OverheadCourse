@@ -63,8 +63,6 @@ Witness the expertise that will take your padel new heights!🚀
 | individual reservation            | 180 euro|
 | reservation for 2 ladies         |  320 euro|
 
-Maximum number of participants is **8** and minimum is **4.** 
-
 To secure your spot, register now before the limited spots fill up:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
