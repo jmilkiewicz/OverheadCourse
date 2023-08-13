@@ -90,6 +90,7 @@ Last <b>2</b> spots left for the Padel Essentials 🎯 course in a group with pl
 
 | Course name     | Price | 
 | {% include padelEssentials.markdown %}         | 270 euro|
+| {% include padelEssentials.markdown %} for 2 participants         | 490 euro|
 
 Secure your spot before they're gone!
 
