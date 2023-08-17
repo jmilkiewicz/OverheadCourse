@@ -56,16 +56,15 @@ Witness the expertise that will take your padel new heights!🚀
 
 <i>The event is almost fully booked!</i>
 
-<b>Last 2</b> spots left in a group for absolute beginners and/or women with minimal experience.
+<b>The last </b> spot is left in a group for absolute beginners and/or women with minimal experience.
 
 | {% include padelLadies.markdown %}  |  Price |
 | ----------- | ----------- |
 | individual reservation            | 180 euro|
-| reservation for 2 ladies         |  320 euro|
 
-To secure your spot, register now before the limited spots fill up:
+To secure your spot, register now before we are fully booked out!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-T-9R9TglCp1CjvMoJi6KpM76KJNFjsGwZevRrG85IR_dyg/viewform?embedded=true" width="640" height="1250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
