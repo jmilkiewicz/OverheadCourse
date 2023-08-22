@@ -39,9 +39,9 @@ minima:
 header_pages:
   - signups/index.markdown
   - signups/ladies.markdown
-#  - courses/index.markdown
   - about.markdown
-  - past/index.markdown
+  - courses/index.markdown
+#  - past/index.markdown
 
 google_analytics: G-1MKCMMRHZ0
 #plugins:
