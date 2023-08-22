@@ -86,15 +86,14 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 
 <i>The event is almost fully booked!</i> 
 
-<b>Last 2</b> spots left for the Padel Essentials 🎯 course in a group with players at the _stable_ (35+ matches) Playtomic level 1.4 - 2.2.  
+<b>The Last </b> spot left for the Padel Essentials 🎯 course in a group with players at the _stable_ (35+ matches) Playtomic level 1.4 - 2.2.  
 
 | Course name     | Price | 
 | {% include padelEssentials.markdown %}         | 270 euro|
-| {% include padelEssentials.markdown %} for 2 participants         | 490 euro|
 
-Secure your spot before they're gone!
+Secure your spot before its gone!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWuq3xVjgVLYIdibTvKB8FcRWZUfzy31eXFjj2vwpx180rhQ/viewform?embedded=true" width="640" height="1250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
