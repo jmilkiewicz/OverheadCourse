@@ -86,7 +86,7 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 
 <i>The event is almost fully booked!</i> 
 
-<b>The Last </b> spot left for the Padel Essentials 🎯 course in a group with players at the _stable_ (35+ matches) Playtomic level 1.4 - 2.2.  
+<b>The Last </b> spot left for the Padel Essentials 🎯 course in a group with players at the _stable_ (35+ matches) Playtomic level 2.X.  
 
 | Course name     | Price | 
 | {% include padelEssentials.markdown %}         | 270 euro|
