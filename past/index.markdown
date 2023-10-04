@@ -11,5 +11,14 @@ For the first time {% include manuSoler.markdown %} has come to Berlin to provid
 
 We have been training in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> and <a href="https://padelfc.com/" target="_blank">Padel FC</a>.
 <iframe src="https://drive.google.com/file/d/1TfiEWyFO7fJGN2qtdoqy1Mo84NuloSOH/preview" width="640" height="480" frameBorder="0"></iframe>
-## After event survey
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ7VW8qiZNkzA_HQYMUWwgTbSm8UamJ4XZeSlynSWqzRbc33nJJQB2hBGS02t1hFc_fEiC0PhDiyuSs/pub?embedded=true" width="640" height="1510" frameBorder="0"></iframe>
+
+
+# Berlin 28th - 30th of September 2023
+{% include manuSoler.markdown %} has provided his {% include padelLadies.markdown %} in <a href="https://padelfc.com/" target="_blank">Padel FC</a>.
+
+We have had 8 participants (2 groups), with 4.5 h training sessions and 1.5 h of unsupervised game for each group.
+
+# Berlin 30th Sept - 3rd Oct 2023
+{% include manuSoler.markdown %} has provided his {% include padelEssentials.markdown %} in <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a> .
+
+We have had 12 participants (3 groups), with intensive 7.5 h training sessions and 1.5 h of unsupervised game for each group.
