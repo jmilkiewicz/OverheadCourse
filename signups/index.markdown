@@ -95,10 +95,10 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 
 
 | Course                  | Early Bird Price (EUR) | Regular Price (EUR) |
-|-------------------------|------------------------|----------------------|
-| Padel Overheads         | 190                    | 230                  |
-| Padel Tactics           | 240                    | 270                  |
-| Custom Course (4 ppl)   | 700                    | 820                  |
+|-------------------------|------------------------|---------------------|
+| Padel Overheads         | 190                    | 230                 |
+| Padel Tactics           | 240                    | 280                 |
+| Custom Course (4 ppl)   | 700                    | 820                 |
 
 Early bird prices are available until June 15th.
 
