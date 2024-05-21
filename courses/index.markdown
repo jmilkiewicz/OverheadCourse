@@ -14,6 +14,7 @@ In addition to the listed courses, Manu Soler can create a custom course to addr
 - ### {% include padelEssentials.markdown %}
 - ### {% include padelDefence.markdown %}
 - ### {% include padelOverheads.markdown %}
+- ### {% include padelTactics.markdown %}
 
 
 
