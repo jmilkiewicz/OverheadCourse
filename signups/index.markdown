@@ -85,8 +85,8 @@ Private lessons will be provided on-demand (Thursday/Friday/Monday) outside cour
 
 | Type of lesson     | Total price 1h | Total price 1.5h |
 | -----------        | ----------- |
-| 1:1         | 70 euro       | 100 euro       |
-| 1:2         | 80 euro       | 115 euro       |
+| 1:1         | 75 euro       | 105 euro       |
+| 1:2         | 85 euro       | 120 euro       |
 
 ### 🤷‍ Not sure?
 Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/index.markdown %}) Manu's course in the previous event!
