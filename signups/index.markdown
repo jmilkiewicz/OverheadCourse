@@ -10,7 +10,7 @@ layout: page
 
 - {% include padelOverheads.markdown %}
 - {% include padelTactics.markdown %}
-- [custom training](#custom-course)
+- [Custom course](#custom-course)
 
 Each participant can **choose** the course that best suits their current needs and goals (and **timing**)
 
@@ -22,7 +22,7 @@ Click [here](#-course-selection) for help regarding course selection.
 
 {% include padelOverheads.markdown %} will take place from from **Saturday, September 7th** to **Monday, September 9th**
 
-[Custom training](#custom-course) will also be held from **Saturday, September 7th** to **Monday, September 9th**
+[Custom course](#custom-course) will also be held from **Saturday, September 7th** to **Monday, September 9th**
 
 All training sessions will be conducted at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>. WAP Berlin is conveniently accessible by car on non-working days. 🚗🎾
 
