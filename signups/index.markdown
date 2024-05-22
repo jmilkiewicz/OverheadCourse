@@ -68,6 +68,7 @@ Looking to enhance your padel skills with friends or fellow players? Our group b
 Choose from the following group courses (for a group of 4):
 - {% include padelEssentials.markdown %}
 - {% include padelDefence.markdown %}
+- {% include padelOverheads.markdown %}
 
 For group bookings, the training sessions will span from Saturday through Monday, mirroring the schedule of the Padel Overheads course,
 
