@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .form-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+        .form-group {
+            display: flex;
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            width: 150px;
+            padding-right: 10px;
+            text-align: right;
+            font-weight: bold;
+            position: relative;
+        }
+        .form-group label::after {
+            content: '*';
+            color: red;
+            position: absolute;
+            right: -10px;
+            top: 50%;
+            transform: translateY(-50%);
+            display: none;
+        }
+        .form-group.required label::after {
+            display: inline;
+        }
+        .form-group input, .form-group select, .form-group textarea {
+            flex: 1;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .form-group textarea {
+            resize: vertical;
+        }
+        .form-group button {
+            margin-left: 160px;
+            padding: 10px 15px;
+            border: none;
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .form-group button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<div class="form-container">
+    <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeb8e8NXP9yAMfIPqSkcpECsFofGgKDTGZ0iSL_p9_-V7IxBQ/formResponse?embedded=true" method="post">
+        <div class="form-group required">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="emailAddress" required>
+        </div>
+        <div class="form-group required">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="entry.1166974658" required>
+        </div>
+        <div class="form-group required">
+            <label for="telephone">Phone Number:</label>
+            <input type="tel" id="telephone" name="entry.1518953599" required>
+        </div>
+        <div class="form-group required">
+            <label for="courseType">Course Type:</label>
+            <select id="courseType" name="entry.1868933825" required>
+                <option value="Padel Overheads">Padel Overheads</option>
+                <option value="Custom Course (group of 4)">Custom Course (group of 4)</option>
+                <option value="Padel Tactics">Padel Tactics</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="playtomicLevel">Playtomic Level:</label>
+            <input type="text" id="playtomicLevel" name="entry.1485792686" required>
+        </div>
+        <div class="form-group">
+            <label for="extraInquiry">Extra Inquiry:</label>
+            <textarea id="extraInquiry" name="entry.839337160" rows="3"></textarea>
+        </div>
+        <div class="form-group">
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</div>
+</body>
+</html>
