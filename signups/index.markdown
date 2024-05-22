@@ -106,7 +106,7 @@ Secure your spot before its gone!
 
 [//]: # (<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb8e8NXP9yAMfIPqSkcpECsFofGgKDTGZ0iSL_p9_-V7IxBQ/viewform?embedded=true" width="640" height="1380" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>)
 
-<iframe src="/forms/september2024.html" width="430" height="418" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="/forms/september2024.html" width="430" height="417" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
