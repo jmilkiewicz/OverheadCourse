@@ -24,7 +24,7 @@ Click [here](#-course-selection) for help regarding course selection.
 
 [Custom course](#custom-course) will also be held from **Saturday, September 7th** to **Monday, September 9th**
 
-All training sessions will be conducted at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>. WAP Berlin is conveniently accessible by car on non-working days. 🚗🎾
+All non-weekend trainings will start from 18:00 and will be conducted at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
 
 Training will be provided in English.
 
