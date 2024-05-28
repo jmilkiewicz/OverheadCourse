@@ -97,9 +97,9 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 
 | Course                     | Early Bird Price (EUR) | Regular Price (EUR) |
 |----------------------------|------------------------|---------------------|
-| Padel Overheads            | 190                    | 230                 |
-| Padel Tactics              | 240                    | 280                 |
-| Custom Course (group of 4) | 700                    | 820                 |
+| Padel Overheads            | 195                    | 240                 |
+| Padel Tactics              | 245                    | 285                 |
+| Custom Course (group of 4) | 720                    | 900                 |
 
 Early bird prices are available until June 15th.
 
@@ -108,7 +108,6 @@ Secure your spot before its gone!
 [//]: # (<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb8e8NXP9yAMfIPqSkcpECsFofGgKDTGZ0iSL_p9_-V7IxBQ/viewform?embedded=true" width="640" height="1380" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>)
 
 <iframe src="/forms/september2024.html" width="430" height="417" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
