@@ -97,7 +97,7 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 
 | Course                     | Early Bird Price (EUR) | Regular Price (EUR) |
 |----------------------------|------------------------|---------------------|
-| Padel Overheads            | 195                    | 240                 |
+| Padel Overheads            | 195                    | 235                 |
 | Padel Tactics              | 245                    | 285                 |
 | Custom Course (group of 4) | 720                    | 900                 |
 
