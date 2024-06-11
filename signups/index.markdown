@@ -37,20 +37,30 @@ This time, Manu has prepared two options:
 
 We encourage you to carefully read the course descriptions and **select** the one that best suits your current needs.
 
-### {% include padelTactics.markdown %} is aimed at individuals who are:
-- *Intermediate to Advanced Players:* If you already have a solid grasp of basic padel techniques like bandeja, vibora, volleys, and backcourt play, this course is perfect for you. 
-- *Strategic Thinkers:* Those looking to outsmart their opponents through advanced tactics and smart play.
-- *Competitors Seeking an Edge:* Ideal for players who can hold their own but struggle to win against opponents of similar or higher skill levels.
+[//]: # (### {% include padelTactics.markdown %} is aimed at individuals who are:)
 
-#### 🗓️ Training Plan
-Each group will experience an intensive **7 hours** training program and **2 hours** of unsupervised game:
+[//]: # (- *Intermediate to Advanced Players:* If you already have a solid grasp of basic padel techniques like bandeja, vibora, volleys, and backcourt play, this course is perfect for you. )
 
-- 1.5 hours on Thursday + 0.5 h unsupervised game,
-- 1.5 hours on Friday + 0.5 h unsupervised game,
-- 2 hours on Saturday + 0.5 h unsupervised game,
-- 2 hours on Sunday + 0.5 h unsupervised game,
+[//]: # (- *Strategic Thinkers:* Those looking to outsmart their opponents through advanced tactics and smart play.)
 
-Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
+[//]: # (- *Competitors Seeking an Edge:* Ideal for players who can hold their own but struggle to win against opponents of similar or higher skill levels.)
+
+[//]: # ()
+[//]: # (#### 🗓️ Training Plan)
+
+[//]: # (Each group will experience an intensive **7 hours** training program and **2 hours** of unsupervised game:)
+
+[//]: # ()
+[//]: # (- 1.5 hours on Thursday + 0.5 h unsupervised game,)
+
+[//]: # (- 1.5 hours on Friday + 0.5 h unsupervised game,)
+
+[//]: # (- 2 hours on Saturday + 0.5 h unsupervised game,)
+
+[//]: # (- 2 hours on Sunday + 0.5 h unsupervised game,)
+
+[//]: # ()
+[//]: # (Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.)
 
 ### {% include padelOverheads.markdown %} is tailored for you when you:
 - Want to improve/master the various overhead shots in padel, including bandeja, vibora, rulo, gancho, flat smash, and kick smash.
