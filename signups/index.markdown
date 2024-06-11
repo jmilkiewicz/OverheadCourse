@@ -9,6 +9,7 @@ layout: page
 {% include manuSoler.markdown %} is finally back in Berlin with dedicated courses for players ranging from *beginner* to *advanced* levels:
 
 - {% include padelOverheads.markdown %}
+- {% include padelEssentials.markdown %}
 - {% include padelTactics.markdown %}
 - [Custom course](#custom-course)
 
@@ -18,11 +19,11 @@ Click [here](#-course-selection) for help regarding course selection.
 
 ## 📅 Event Details 📍
 
-{% include padelTactics.markdown %} training will be held from **Thursday, September 5th** to **Sunday, September 8th**
+{% include padelEssentials.markdown %} training will be held from **Thursday, September 5th** to **Sunday, September 8th**
 
 {% include padelOverheads.markdown %} will take place from from **Saturday, September 7th** to **Monday, September 9th**
 
-[Custom course](#custom-course) will also be held from **Saturday, September 7th** to **Monday, September 9th**
+[Custom course](#custom-course) can be held from **Saturday, September 7th** to **Monday, September 9th** or from **Thursday, September 5th** to **Sunday, September 8th**
 
 All non-weekend trainings will start from 18:00 and will be conducted at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
 
@@ -31,7 +32,7 @@ Training will be provided in English.
 ## 🔀 Course selection
 
 This time, Manu has prepared two options: 
-- Dedicated courses {% include padelTactics.markdown %} or {% include padelOverheads.markdown %}.
+- Dedicated courses {% include padelTactics.markdown %}, {% include padelOverheads.markdown %} or {% include padelEssentials.markdown %}.
 - A custom course tailored for a group of four.
 
 We encourage you to carefully read the course descriptions and **select** the one that best suits your current needs.
@@ -63,6 +64,22 @@ Each group will experience an intensive **5.5 hours** training program and **1.5
 - 2 hours on Sunday + 0.5 h unsupervised game,
 - 1.5 hours on Monday + 0.5 h unsupervised game,
 
+### {% include padelEssentials.markdown %} is aimed at individuals who:
+- wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
+- struggles with shot selection and/or
+- plays non-effective overshots and/or
+- misses too many volleys and/or
+- avoids playing with glass walls and/or
+- being often caught in unfavorable court positions.
+
+#### 🗓️ Training Plan
+Each group will experience an intensive **7 hours** training program and **2 hours** of unsupervised game:
+
+- 1.5 hours on Thursday + 0.5 h unsupervised game,
+- 1.5 hours on Friday + 0.5 h unsupervised game,
+- 2 hours on Saturday + 0.5 h unsupervised game,
+- 2 hours on Sunday + 0.5 h unsupervised game,
+
 ###  Custom course 
 Looking to enhance your padel skills with friends or fellow players? Our group booking options offer tailored courses designed to accommodate groups of four, ensuring a fun and collaborative learning experience. 
 Choose from the following group courses (for a group of 4):
@@ -70,7 +87,7 @@ Choose from the following group courses (for a group of 4):
 - {% include padelDefence.markdown %}
 - {% include padelOverheads.markdown %}
 
-For group bookings, the training sessions will span from Saturday through Monday, mirroring the schedule of the Padel Overheads course,
+For group bookings, the training sessions can span either from Thursday through Sunday (4 days) or from Saturday through Monday (3 days)
 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
@@ -95,11 +112,13 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 ## 📝 Registration
 
 
-| Course                     | Early Bird Price (EUR) | Regular Price (EUR) |
-|----------------------------|------------------------|---------------------|
-| Padel Overheads            | 195                    | 235                 |
-| Padel Tactics              | 245                    | 285                 |
-| Custom Course (group of 4) | 720                    | 900                 |
+| Course                                 | Early Bird Price (EUR) | Regular Price (EUR) |
+|----------------------------------------|------------------------|---------------------|
+| Padel Overheads (3 days)               | 195                    | 235                 |
+| Padel Essentials (4 days)              | 245                    | 285                 |
+| ~~Padel Tactics~~                      | ~~245~~                | ~~285~~             |
+| Custom Course (group of 4) Thur-Sunday | 900                    | 1040                |
+| Custom Course (group of 4) Sat-Monday  | 720                    | 900                 |
 
 Early bird prices are available until June 15th.
 
@@ -107,7 +126,7 @@ Secure your spot before its gone!
 
 [//]: # (<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb8e8NXP9yAMfIPqSkcpECsFofGgKDTGZ0iSL_p9_-V7IxBQ/viewform?embedded=true" width="640" height="1380" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>)
 
-<iframe src="/forms/september2024.html" width="430" height="417" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="/forms/september2024.html" width="445" height="420" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
