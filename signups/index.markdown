@@ -21,6 +21,8 @@ Click [here](#-course-selection) for help regarding course selection.
 
 {% include padelEssentials.markdown %} training will be held from **Thursday, September 5th** to **Sunday, September 8th**
 
+{% include padelTactics.markdown %} training will be held from **Thursday, September 5th** to **Sunday, September 8th**
+
 {% include padelOverheads.markdown %} will take place from from **Saturday, September 7th** to **Monday, September 9th**
 
 [Custom course](#custom-course) can be held from **Saturday, September 7th** to **Monday, September 9th** or from **Thursday, September 5th** to **Sunday, September 8th**
@@ -37,30 +39,30 @@ This time, Manu has prepared two options:
 
 We encourage you to carefully read the course descriptions and **select** the one that best suits your current needs.
 
-[//]: # (### {% include padelTactics.markdown %} is aimed at individuals who are:)
+### {% include padelTactics.markdown %} is aimed at individuals who are:
 
-[//]: # (- *Intermediate to Advanced Players:* If you already have a solid grasp of basic padel techniques like bandeja, vibora, volleys, and backcourt play, this course is perfect for you. )
+- *Intermediate to Advanced Players:* If you already have a solid grasp of basic padel techniques like bandeja, vibora, volleys, and backcourt play, this course is perfect for you. 
 
-[//]: # (- *Strategic Thinkers:* Those looking to outsmart their opponents through advanced tactics and smart play.)
+- *Strategic Thinkers:* Those looking to outsmart their opponents through advanced tactics and smart play.
 
-[//]: # (- *Competitors Seeking an Edge:* Ideal for players who can hold their own but struggle to win against opponents of similar or higher skill levels.)
+- *Competitors Seeking an Edge:* Ideal for players who can hold their own but struggle to win against opponents of similar or higher skill levels.
 
-[//]: # ()
-[//]: # (#### 🗓️ Training Plan)
 
-[//]: # (Each group will experience an intensive **7 hours** training program and **2 hours** of unsupervised game:)
+#### 🗓️ Training Plan
 
-[//]: # ()
-[//]: # (- 1.5 hours on Thursday + 0.5 h unsupervised game,)
+Each group will experience an intensive **7 hours** training program and **2 hours** of unsupervised game:
 
-[//]: # (- 1.5 hours on Friday + 0.5 h unsupervised game,)
 
-[//]: # (- 2 hours on Saturday + 0.5 h unsupervised game,)
+- 1.5 hours on Thursday + 0.5 h unsupervised game,
 
-[//]: # (- 2 hours on Sunday + 0.5 h unsupervised game,)
+- 1.5 hours on Friday + 0.5 h unsupervised game,
 
-[//]: # ()
-[//]: # (Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.)
+- 2 hours on Saturday + 0.5 h unsupervised game,
+
+- 2 hours on Sunday + 0.5 h unsupervised game,
+
+
+Specific hours and group allocations will be announced via whatsup at least a one week before the course starts.
 
 ### {% include padelOverheads.markdown %} is tailored for you when you:
 - Want to improve/master the various overhead shots in padel, including bandeja, vibora, rulo, gancho, flat smash, and kick smash.
@@ -122,13 +124,13 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 ## 📝 Registration
 
 
-| Course                                 | Early Bird Price (EUR) | Regular Price (EUR) |
-|----------------------------------------|------------------------|---------------------|
-| Padel Overheads (3 days)               | 195                    | 235                 |
-| Padel Essentials (4 days)              | 245                    | 285                 |
-| ~~Padel Tactics~~                      | ~~245~~                | ~~285~~             |
-| Custom Course (group of 4) Thur-Sunday | 900                    | 1040                |
-| Custom Course (group of 4) Sat-Monday  | 720                    | 900                 |
+| Course                             | Early Bird Price (EUR) | Regular Price (EUR) |
+|------------------------------------|--------------------|-----------------|
+| Padel Overheads (3 days)           | 195                | 235             |
+| Padel Essentials (4 days)          | 245                | 285             |
+| Padel Tactics                      | 245                | 285             |
+| Custom Course (group of 4) Thur-Sunday | 900                | 1040            |
+| Custom Course (group of 4) Sat-Monday | 720                | 900             |
 
 Early bird prices are available until June 15th.
 
