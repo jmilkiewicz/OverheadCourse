@@ -77,7 +77,7 @@ Choose from the following group courses (for a group of 4):
 - {% include padelOverheads.markdown %}
 - {% include padelTactics.markdown %}
 
-For group bookings, the training sessions can span either from Thursday through Sunday (4 days) or from Saturday through Monday (3 days)
+For group bookings, the training sessions can span ~~either~~ from Thursday through Sunday (4 days) ~~or from Saturday through Monday (3 days)~~
 
 *Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
 
