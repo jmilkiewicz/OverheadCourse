@@ -51,6 +51,8 @@ Each group will experience an intensive **5.5 hours** training program and **1.5
 - 2 hours on Sunday + 0.5 h unsupervised game,
 - 1.5 hours on Monday + 0.5 h unsupervised game,
 
+**Last two spots available for the Padel Overheads workshop for players with a Playtomic rating of around 4.0.**
+
 ### {% include padelEssentials.markdown %} is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
 - struggles with shot selection and/or
@@ -100,13 +102,13 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 ## 📝 Registration
 
 
-| Course                                 | Early Bird Price (EUR) | Regular Price (EUR) |
-|----------------------------------------|------------------------|-------------------|
-| Padel Overheads (3 days)               | 200                    | 240               |
-| Padel Essentials (4 days)              | 250                    | 290               |
-| ~~Padel Tactics~~                      |                     |              |
-| Custom Course (group of 4) Thur-Sunday | 900                    | 1040              |
-| Custom Course (group of 4) Sat-Monday  | 720                    | 900               |
+| Course                                    | Early Bird Price (EUR) | Regular Price (EUR) |
+|-------------------------------------------|------------------------|-------------------|
+| Padel Overheads (3 days)                  | 200                    | 240               |
+| Padel Essentials (4 days)                 | 250                    | 290               |
+| ~~Padel Tactics~~                         |                        |              |
+| Custom Course (group of 4) Thur-Sunday    | 900                    | 1040              |
+| ~~Custom Course (group of 4) Sat-Monday~~ |                 |                |
 
 Early bird prices are available until **June 30th** .
 
