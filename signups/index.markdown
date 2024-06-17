@@ -25,7 +25,7 @@ Click [here](#-course-selection) for help regarding course selection.
 
 {% include padelOverheads.markdown %} will take place from from **Saturday, September 7th** to **Monday, September 9th**
 
-[Custom course](#custom-course) can be held from **Saturday, September 7th** to **Monday, September 9th** or from **Thursday, September 5th** to **Sunday, September 8th**
+[Custom course](#custom-course) can be held from ~~**Saturday, September 7th**~~ ~~to~~ ~~**Monday, September 9th**~~ ~~or~~ from **Thursday, September 5th** to **Sunday, September 8th**
 
 All non-weekend trainings will start from 18:00 and will be conducted at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
 
@@ -106,9 +106,9 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 |-------------------------------------------|------------------------|-------------------|
 | Padel Overheads (3 days)                  | 200                    | 240               |
 | Padel Essentials (4 days)                 | 250                    | 290               |
-| ~~Padel Tactics~~                         |                        |              |
+| ~~Padel Tactics~~                         | sold-out               | sold-out             |
 | Custom Course (group of 4) Thur-Sunday    | 900                    | 1040              |
-| ~~Custom Course (group of 4) Sat-Monday~~ |                 |                |
+| ~~Custom Course (group of 4) Sat-Monday~~ |                        |                |
 
 Early bird prices are available until **June 30th** .
 
