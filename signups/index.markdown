@@ -11,7 +11,6 @@ layout: page
 - {% include padelOverheads.markdown %}
 - {% include padelEssentials.markdown %}
 - {% include padelTactics.markdown %}
-- [Custom course](#custom-course)
 
 Each participant can **choose** the course that best suits their current needs and goals (and **timing**)
 
@@ -24,8 +23,6 @@ Click [here](#-course-selection) for help regarding course selection.
 {% include padelTactics.markdown %} training will be held from **Thursday, September 5th** to **Sunday, September 8th**
 
 {% include padelOverheads.markdown %} will take place from from **Saturday, September 7th** to **Monday, September 9th**
-
-[Custom course](#custom-course) can be held from ~~**Saturday, September 7th**~~ ~~to~~ ~~**Monday, September 9th**~~ ~~or~~ from **Thursday, September 5th** to **Sunday, September 8th**
 
 All non-weekend trainings will start from 18:00 and will be conducted at <a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>.
 
@@ -51,7 +48,7 @@ Each group will experience an intensive **5.5 hours** training program and **1.5
 - 2 hours on Sunday + 0.5 h unsupervised game,
 - 1.5 hours on Monday + 0.5 h unsupervised game,
 
-**Last two spots available for the Padel Overheads workshop for players with a Playtomic rating of around 4.0.**
+**Last two spots available for the {% include padelOverheads.markdown %} workshop for players with a Playtomic rating of around 4.0.**
 
 ### {% include padelEssentials.markdown %} is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
@@ -69,17 +66,7 @@ Each group will experience an intensive **7 hours** training program and **2 hou
 - 2 hours on Saturday + 0.5 h unsupervised game,
 - 2 hours on Sunday + 0.5 h unsupervised game,
 
-###  Custom course 
-Looking to enhance your padel skills with friends or fellow players? Our group booking options offer tailored courses designed to accommodate groups of four, ensuring a fun and collaborative learning experience. 
-Choose from the following group courses (for a group of 4):
-- {% include padelEssentials.markdown %}
-- {% include padelDefence.markdown %}
-- {% include padelOverheads.markdown %}
-- {% include padelTactics.markdown %}
-
-For group bookings, the training sessions can span ~~either~~ from Thursday through Sunday (4 days) ~~or from Saturday through Monday (3 days)~~
-
-*Please note that detailed training program will be adjusted to the level of experience/skills of participants.*
+**Last three spots available for the {% include padelEssentials.markdown %}s workshop for players with a Playtomic rating of around 2.5.**
 
 ### 🎁 Extras
 
@@ -102,13 +89,13 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 ## 📝 Registration
 
 
-| Course                                    | Early Bird Price (EUR) | Regular Price (EUR) |
-|-------------------------------------------|------------------------|-------------------|
-| Padel Overheads (3 days)                  | 200                    | 240               |
-| Padel Essentials (4 days)                 | 250                    | 290               |
-| ~~Padel Tactics~~                         | sold-out               | sold-out             |
-| Custom Course (group of 4) Thur-Sunday    | 900                    | 1040              |
-| ~~Custom Course (group of 4) Sat-Monday~~ |                        |                |
+| Course                                      | Early Bird Price (EUR) | Regular Price (EUR) |
+|---------------------------------------------|------------------------|-------------------|
+| Padel Overheads (3 days) **last spot!**     | 200                    | 240               |
+| Padel Essentials (4 days) **last 3 spots!** | 250                    | 290               |
+| ~~Padel Tactics~~                           | sold-out               | sold-out             |
+| ~~Custom Course (group of 4) Thur-Sunday~~  |                     |               |
+| ~~Custom Course (group of 4) Sat-Monday~~   |                        |                |
 
 Early bird prices are available until **June 30th** .
 
