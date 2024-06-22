@@ -92,7 +92,7 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 | Course                                      | Early Bird Price (EUR) | Regular Price (EUR) |
 |---------------------------------------------|------------------------|-------------------|
 | Padel Overheads (3 days) **last spot!**     | 200                    | 240               |
-| Padel Essentials (4 days) **last 3 spots!** | 250                    | 290               |
+| Padel Essentials (4 days) **last 2 spots!** | 250                    | 290               |
 | ~~Padel Tactics~~                           | sold-out               | sold-out             |
 | ~~Custom Course (group of 4) Thur-Sunday~~  |                     |               |
 | ~~Custom Course (group of 4) Sat-Monday~~   |                        |                |
