@@ -66,7 +66,7 @@ Each group will experience an intensive **7 hours** training program and **2 hou
 - 2 hours on Saturday + 0.5 h unsupervised game,
 - 2 hours on Sunday + 0.5 h unsupervised game,
 
-**Last three spots available for the {% include padelEssentials.markdown %}s workshop for players with a Playtomic rating of around 2.5.**
+**Last two spots available for the {% include padelEssentials.markdown %}s workshop for players with a Playtomic rating of around 2.5.**
 
 ### 🎁 Extras
 
