@@ -66,7 +66,7 @@ Each group will experience an intensive **7 hours** training program and **2 hou
 - 2 hours on Saturday + 0.5 h unsupervised game,
 - 2 hours on Sunday + 0.5 h unsupervised game,
 
-**Last two spots available for the {% include padelEssentials.markdown %}s workshop for players with a Playtomic rating of around 2.5.**
+**Last spot available for the {% include padelEssentials.markdown %}s workshop for players with a Playtomic rating of around 2.5.**
 
 ### 🎁 Extras
 
@@ -89,13 +89,13 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 ## 📝 Registration
 
 
-| Course                                      | Early Bird Price (EUR) | Regular Price (EUR) |
-|---------------------------------------------|------------------------|-------------------|
-| Padel Overheads (3 days) **last spot!**     | 200                    | 240               |
-| Padel Essentials (4 days) **last 2 spots!** | 250                    | 290               |
-| ~~Padel Tactics~~                           | sold-out               | sold-out             |
-| ~~Custom Course (group of 4) Thur-Sunday~~  |                     |               |
-| ~~Custom Course (group of 4) Sat-Monday~~   |                        |                |
+| Course                                   | Early Bird Price (EUR) | Regular Price (EUR) |
+|------------------------------------------|------------------------|-------------------|
+| Padel Overheads (3 days) **last spot!**  | 200                    | 240               |
+| Padel Essentials (4 days) **last spot!** | 250                    | 290               |
+| ~~Padel Tactics~~                        | sold-out               | sold-out             |
+| ~~Custom Course (group of 4) Thur-Sunday~~ |                     |               |
+| ~~Custom Course (group of 4) Sat-Monday~~ |                        |                |
 
 Early bird prices are available until **June 30th** .
 
