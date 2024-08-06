@@ -31,7 +31,7 @@ Training will be provided in English.
 ## 🔀 Course selection
 
 This time, Manu has prepared two options: 
-- Dedicated courses ~~{% include padelTactics.markdown %}~~, {% include padelOverheads.markdown %} or {% include padelEssentials.markdown %}.
+- Dedicated courses {% include padelTactics.markdown %}, {% include padelOverheads.markdown %} or {% include padelEssentials.markdown %}.
 - A custom course tailored for a group of four.
 
 We encourage you to carefully read the course descriptions and **select** the one that best suits your current needs.
@@ -48,7 +48,22 @@ Each group will experience an intensive **5.5 hours** training program and **1.5
 - 2 hours on Sunday + 0.5 h unsupervised game,
 - 1.5 hours on Monday + 0.5 h unsupervised game,
 
-**Last two spots available for the {% include padelOverheads.markdown %} workshop for players with a Playtomic rating of around 4.0.**
+**Last spot available for the {% include padelOverheads.markdown %} workshop for players with a Playtomic rating of around 4.0.**
+
+### {% include padelTactics.markdown %} is aimed at individuals who are:
+- *Intermediate to Advanced Players:* If you already have a solid grasp of basic padel techniques like bandeja, vibora, volleys, and backcourt play, this course is perfect for you.
+- *Strategic Thinkers:* Those looking to outsmart their opponents through advanced tactics and smart play.
+- *Competitors Seeking an Edge:* Ideal for players who can hold their own but struggle to win against opponents of similar or higher skill levels.
+
+#### 🗓️ Training Plan
+Each group will experience an intensive **7 hours** training program and **2 hours** of unsupervised game:
+
+- 1.5 hours on Thursday + 0.5 h unsupervised game,
+- 1.5 hours on Friday + 0.5 h unsupervised game,
+- 2 hours on Saturday + 0.5 h unsupervised game,
+- 2 hours on Sunday + 0.5 h unsupervised game,
+
+**Last spot available for the {% include padelTactics.markdown %} workshop for players with a Playtomic rating of around 4.5.**
 
 ### {% include padelEssentials.markdown %} is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
@@ -89,13 +104,13 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 ## 📝 Registration
 
 
-| Course                                  | Early Bird Price (EUR) | Regular Price (EUR) |
-|-----------------------------------------|------------------------|-------------------|
-| Padel Overheads (3 days) **last spot!** | 200                    | 240               |
-| ~~Padel Essentials (4 days)~~| sold-out                 | sold-out               |
-| ~~Padel Tactics~~                       | sold-out               | sold-out             |
-| ~~Custom Course (group of 4) Thur-Sunday~~ |                     |               |
-| ~~Custom Course (group of 4) Sat-Monday~~ |                        |                |
+| Course                              | Early Bird Price (EUR) | Regular Price (EUR) |
+|-------------------------------------|------------------------|---------------------|
+| Padel Overheads (3 days) **last spot!** | 200                    | 240                 |
+| ~~Padel Essentials (4 days)~~| sold-out               | sold-out            |
+| Padel Tactics  **last spot!**                     | 250                    | 290                 |
+| ~~Custom Course (group of 4) Thur-Sunday~~ |                        |                     |
+| ~~Custom Course (group of 4) Sat-Monday~~ |                        |                     |
 
 Early bird prices are available until **June 30th** .
 
