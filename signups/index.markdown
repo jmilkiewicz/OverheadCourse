@@ -61,7 +61,7 @@ Each group will experience an intensive **7 hours** training program and **2 hou
 - 2 hours on Saturday + 0.5 h unsupervised game,
 - 2 hours on Sunday + 0.5 h unsupervised game,
 
-**Last spot available for the {% include padelTactics.markdown %} workshop for players with a Playtomic rating of around 4.5.**
+**Last spot available for the {% include padelTactics.markdown %} workshop for players with a Playtomic rating of around from 4.0.**
 
 ### {% include padelEssentials.markdown %} is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
