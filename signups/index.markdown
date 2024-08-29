@@ -61,8 +61,6 @@ Each group will experience an intensive **7 hours** training program and **2 hou
 - 2 hours on Saturday + 0.5 h unsupervised game,
 - 2 hours on Sunday + 0.5 h unsupervised game,
 
-**Last spot available for the {% include padelTactics.markdown %} workshop for players with a Playtomic rating of around from 4.0.**
-
 ### {% include padelEssentials.markdown %} is aimed at individuals who:
 - wants to learn/improve backcourt shots technique (or potentially change their habits from other racket sports) and/or
 - struggles with shot selection and/or
@@ -100,11 +98,11 @@ Discover how much participants [valued/loved]({{ site.baseurl }}{% link past/ind
 ## 📝 Registration
 
 
-| Course                                | Early Bird Price (EUR) | Regular Price (EUR) |
-|---------------------------------------|------------------------|---------------------|
-| ~~Padel Overheads (3 days)~~          | sold-out                    | sold-out                 |
-| Padel Tactics (4 days)  **last spot!** | 250                    | 290                 |
-| ~~Padel Essentials (4 days)~~         | sold-out               | sold-out            |
+| Course                        | Early Bird Price (EUR) | Regular Price (EUR) |
+|-------------------------------|------------------------|---------------------|
+| ~~Padel Overheads (3 days)~~  | sold-out                    | sold-out                 |
+| ~~Padel Tactics (4 days)~~    | sold-out                      | sold-out                   |
+| ~~Padel Essentials (4 days)~~ | sold-out               | sold-out            |
 
 Early bird prices are available until **June 30th** .
 
@@ -112,7 +110,7 @@ Secure your spot before its gone!
 
 [//]: # (<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb8e8NXP9yAMfIPqSkcpECsFofGgKDTGZ0iSL_p9_-V7IxBQ/viewform?embedded=true" width="640" height="1380" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>)
 
-<iframe src="/forms/september2024.html" width="445" height="420" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+[//]: # (<iframe src="/forms/september2024.html" width="445" height="420" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>)
 
 Once your registration form is submitted, our team will review your request, and you will receive further instructions on how to proceed with the payment.
 
